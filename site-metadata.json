@@ -15,7 +15,8 @@
                 "url": "/episodes",
                 "style": "link",
                 "new_window": true,
-                "icon": "spotify"
+                "icon": "spotify",
+                "has_icon": true
             },
             {
                 "label": "Video",
