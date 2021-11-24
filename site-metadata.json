@@ -63,7 +63,7 @@
         "primary_nav_links": [
             {
                 "label": "Chi Sono",
-                "url": "lorem-ipsum",
+                "url": "/about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "apple-podcasts",
