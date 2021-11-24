@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: chi_sono
     - name: 'twitter:description'
       value: leggi e scoprimi
     - name: 'twitter:image'
