@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 4 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Hunger Games
     - name: 'twitter:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
     - name: 'twitter:image'
