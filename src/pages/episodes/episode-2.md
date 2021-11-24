@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: 'Mulan'
     - name: 'twitter:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
     - name: 'twitter:image'
