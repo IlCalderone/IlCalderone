@@ -108,40 +108,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-  - type: grid_section
-    title: Partners
-    subtitle: 2021 Supporters
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
-        image_align: center
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
-        image_align: center
-      - image: images/logo-3.svg
-        image_alt: Sticker Mule logo
-        image_align: center
-      - image: images/logo-4.svg
-        image_alt: GitHub logo
-        image_align: center
-      - image: images/logo-5.svg
-        image_alt: Gatsby logo
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Forestry logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    has_border: true
-    background_color: none
   - type: form_section
     content: >-
       ## Ask A Question
