@@ -1,8 +1,6 @@
 ---
 title: Hunger Games P.T.1
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: Una sorpresa inaspettata.
 date: '2020-10-01'
 categories:
   - src/data/categories/season-1.yaml
