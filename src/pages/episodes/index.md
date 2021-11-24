@@ -37,7 +37,7 @@ seo:
       value: Articoli
       keyName: property
     - name: 'og:description'
-      value: This is the episodes page
+      value: tutto quello di cui ho scritto
       keyName: property
     - name: 'og:image'
       value: images/post-9.jpg
