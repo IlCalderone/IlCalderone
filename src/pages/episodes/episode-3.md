@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Passpartù
     - name: 'twitter:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
     - name: 'twitter:image'
