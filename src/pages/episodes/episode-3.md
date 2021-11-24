@@ -24,7 +24,7 @@ seo:
       value: Passpartù
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Passpartù'
       keyName: property
     - name: 'og:image'
       value: images/post-3.jpg
