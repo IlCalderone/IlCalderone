@@ -6,7 +6,6 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-5.jpg
 thumb_image_alt: Episode 5 placeholder image
-image: images/post-5.jpg
 image_alt: Episode 5 placeholder image
 image_position: left
 episode_embed_html: >-
