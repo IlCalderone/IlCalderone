@@ -2,7 +2,7 @@
 title: Patreon
 seo:
   title: Patreon
-  description: This is the advertising page
+  description: la pagina 
   extra:
     - name: 'og:type'
       value: website
