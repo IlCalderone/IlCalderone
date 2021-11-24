@@ -14,7 +14,8 @@
                 "label": "Podcast",
                 "url": "/episodes",
                 "style": "link",
-                "new_window": true
+                "new_window": true,
+                "icon": "spotify"
             },
             {
                 "label": "Video",
