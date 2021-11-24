@@ -15,7 +15,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
+          - label: Iscriviti
             url: >-
               https://podcasts.apple.com/it/podcast/il-calderone/id1475693791?uo=4
             style: secondary
