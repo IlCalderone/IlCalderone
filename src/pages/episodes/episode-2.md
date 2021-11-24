@@ -12,9 +12,10 @@ image: images/post-2.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe
+  src="https://open.spotify.com/embed/episode/3L7A8AukgLmmH5sT00rbBY?utm_source=generator"
+  width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
+  clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
