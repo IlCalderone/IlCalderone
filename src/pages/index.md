@@ -66,7 +66,7 @@ seo:
     - name: 'twitter:title'
       value: Il Calderone
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: Un Blog Personalissimo
     - name: 'twitter:image'
       value: images/2021-11-24 12.36.46-5eb90252.png
       relativeUrl: true
