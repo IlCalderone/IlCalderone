@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Soul
+      value: Mulan
       keyName: property
     - name: 'og:description'
       value: Soul
