@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Articoli
-    subtitle: tutto quello che di cui ho scritto
+    subtitle: tutto quello di cui ho scritto
     align: center
     padding_top: medium
     padding_bottom: small
