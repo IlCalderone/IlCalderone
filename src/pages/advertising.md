@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Advertising
+      value: Patreon
     - name: 'twitter:description'
       value: la pagina di abbonamento Patreon
     - name: 'twitter:image'
