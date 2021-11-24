@@ -13,7 +13,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Episode 5 - Callipho Ad Virtutem Nihil Adiunxit
+  title: Il Codice Veritas
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
