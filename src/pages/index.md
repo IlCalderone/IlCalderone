@@ -9,7 +9,7 @@ sections:
       Ma se ci sei, prenditi un momento per scoprire cosa bolle in pentola.
     actions:
       - label: Link utili
-        url: /thank-you
+        url: 'https://beacons.ai/ilcalderone'
         style: primary
     image: images/2E4C7246-57A3-4FB2-B9C3-308B208726922021-11-14_21-14-56_295.jpeg
     image_alt: Hero section placeholder image
