@@ -27,7 +27,7 @@ seo:
       value: Soul
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: images/soul-logo-maxw-824.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
