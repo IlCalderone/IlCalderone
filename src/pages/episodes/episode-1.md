@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: ESoul
+      value: Soul
     - name: 'twitter:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
     - name: 'twitter:image'
