@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image_alt: Mulan
 image_alt: Mulan
-image_position: right
+image_position:
 episode_embed_html: >-
   <iframe
   src="https://open.spotify.com/embed/episode/3L7A8AukgLmmH5sT00rbBY?utm_source=generator"
