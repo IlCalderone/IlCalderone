@@ -104,7 +104,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    background_image: images/subscribe-background.jpg
+    background_image: images/2021-03-13 18.28.16.jpeg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
