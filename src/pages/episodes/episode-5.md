@@ -23,7 +23,7 @@ seo:
       value: Il Codice Veritas
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Il Codice Veritas'
       keyName: property
     - name: 'og:image'
       value: images/veritas.png
