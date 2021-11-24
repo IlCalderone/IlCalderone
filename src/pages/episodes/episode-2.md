@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: 'Mulan'
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: Mulan
     - name: 'twitter:image'
       value: images/post-2.jpg
       relativeUrl: true
