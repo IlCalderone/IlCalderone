@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 5 - Callipho Ad Virtutem Nihil Adiunxit
+      value: Il Codice Veritas
       keyName: property
     - name: 'og:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
