@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 4 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Hunger Games
       keyName: property
     - name: 'og:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
