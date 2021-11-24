@@ -1,5 +1,5 @@
 ---
-title: Soul
+title: Mulan
 subtitle: Non solo un film d'animazione
 date: '2020-12-23'
 categories:
