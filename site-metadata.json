@@ -60,11 +60,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "link"
-            },
-            {
                 "label": "Patreon",
                 "url": "/advertising",
                 "style": "link"
