@@ -33,7 +33,8 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: >-
+              https://open.spotify.com/show/5mGMZYk6asPYQYyD1LSsgb?si=85b4298109114adf
             style: secondary
             has_icon: true
             icon: arrow-right
