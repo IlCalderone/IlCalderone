@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 20
     has_border: true
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Ultimi Articoli
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
