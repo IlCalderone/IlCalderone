@@ -5,7 +5,7 @@ date: '2021-01-06'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image_alt: Mulan
-image_alt: Podcast 2 placeholder image
+image_alt: Mulan
 image_position: right
 episode_embed_html: >-
   <iframe
