@@ -64,7 +64,7 @@
         "has_secondary_nav": false,
         "secondary_nav_title": "lorem-ipsum",
         "secondary_nav_links": [],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "lorem-ipsum",
         "tertiary_nav_links": [],
         "has_social": true,
