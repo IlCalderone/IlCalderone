@@ -1,6 +1,6 @@
 ---
 title: Mulan
-subtitle: Non solo un film d'animazione
+subtitle: a volte è meglio lasciar perdere
 date: '2020-12-23'
 categories:
   - src/data/categories/season-1.yaml
