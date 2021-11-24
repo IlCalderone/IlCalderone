@@ -1,8 +1,6 @@
 ---
 title: Soul
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: Non solo un film d'animazione
 date: '2020-07-15'
 categories:
   - src/data/categories/season-1.yaml
