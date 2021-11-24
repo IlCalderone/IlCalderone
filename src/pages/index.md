@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Benvenuti sul Calderone
-    subtitle: un Blog P
+    subtitle: un Blog Personalissimo
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
