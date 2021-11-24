@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Mulan image
-image_alt: Soul
+image_alt: mulan
 image_position: null
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/3L7A8AukgLmmH5sT00rbBY"
