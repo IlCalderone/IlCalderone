@@ -16,7 +16,7 @@
                 "style": "link",
                 "new_window": true,
                 "icon": "spotify",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Video",
