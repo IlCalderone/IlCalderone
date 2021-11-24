@@ -61,7 +61,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "alla fine tocca pure presentarsi no?",
+                "label": "alla fine tocca presentarsi no?",
                 "url": "/about",
                 "style": "link",
                 "has_icon": false,
