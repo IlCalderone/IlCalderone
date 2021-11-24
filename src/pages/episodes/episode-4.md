@@ -43,12 +43,45 @@ seo:
       relativeUrl: true
 template: post
 ---
+Per la serie *"Futuri possibili e scenari non tanto improbabili*" oggi, miei cari lettori (Ciao Collodi) parleremo di un "fenomeno editoriale" che ha invaso il mondo anni ed anni fa. Dal titolo è facile capire di chi si parla. Hunger Games. Una premessa è doverosa, come molto spesso accade ho visto prima la serie di Film rigorosamente sulla TV generalista e successivamente, solamente nel 2020, ho scoperto che questa in realtà era una saga fatta di carta ed inchiostro e l'ho recuperata grazie alla mia compagna.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+**Non me l'aspettavo.**
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+In questa frase racchiudo tutto quello che il libro è stato capace di far scaturire in me. L'ho approcciato nella maniera peggiore. Senza alcuna speranza. Perché?
+Perché era una storia che nel bene o nel male avevo già "letto" filmicamente parlando. Cosa mai avrebbe potuto raccontarmi? Che sfaccettature inedite m'avrebbe regalato? Cosa avrebbe dischiuso nella mia mente che il film non aveva già fatto, seppellendolo addirittura sotto metri di inutilità assoluta?
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+Ed invece... **Non me l'aspettavo.**
+
+Dire che l'ho divorato sarebbe un eufemismo, seppur lo stile di scrittura all'inizio m'ha fatto storcere le budella, s'è fatto apprezzare. Viene narrato e descritto in prima persona cosa non abbastanza comune nelle mie letture (questo è il primo infatti), ma forse è proprio questo che ad un certo punto me l'ho ha fatto digerire così rempentinamente.
+
+Trovarsi immersi nei pensieri di una ragazzina poco meno che adulta, almeno per come anagraficamente potremmo intenderla noi, che va ad affrontare con una "maturità" in divenire una situazione che, se riproposta personalmente a me, oltre all'iniziale distacco dalla realtà, il sentirmi catapultato in un inferno ruolistico, mi farebbe gelare l'anima e quello che da essa deriva, semplicemente non è da tutti.
+
+Non è da tutti noi che, come spesso mi son sentito ripetere, "non abbiamo mai affrontato una guerra"... seppur avrei di che ridire in merito.
+
+Sentire sulle proprie spalle quella pressione, il magone che può salire quando si affrontano passaggi intrisi di pathos come lo sono:
+
+*   Il confronto con Peeta nella prima metà del romanzo.
+
+*   La morte di Rue.
+
+*   Il terrore finale scandito dall'attacco degli Ibridi e la scoperta sconcertante che ne deriva.
+
+Chiedersi cosa si sarebbe fatto in quella medesima circostanza.
+
+Salvare la propria vita?
+Perder la propria bussola morale?
+Dimenticare di essere un uomo e mutare completamente in bestia?
+Comprendere che quello è un gioco sadico e divenirne assoluto protagonista?
+Attendere mestamente la propria fine?
+Fuggire?
+Lottare?
+
+La Collins ha avuto il merito di riuscir a catapultare il mio "io" all'interno di quel mondo, arrivando a farmi porre quelle domande di cui sopra e molte altre ancora. In tutta sincerità una risposta non l'ho saputa trovare. Se da un lato avrei certamente lottato per la mia sopravvivenza dall'altro non avrei mai voluto sacrificare completamente il mio animo arrivando a toglier la vita a qualcuno. Domande queste che mi stanno perseguitando tutt'ora oggi nel mentre abbozzo questa "considerazione", questo "parlar tanto per" nato dalla lettura di Hunger Games.
+
+Il film non rende giustizia alla crudeltà di alcune scene e alla distruzione psicologica di molte scelte che vengono fatte all'interno del libro.
+
+Se volete un consiglio:
+
+> Leggetevi il libro, che per il film v'è sempre tempo
+>
+> Benny - in un momento di ispirata saggezza
