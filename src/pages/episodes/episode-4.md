@@ -4,7 +4,7 @@ subtitle: Una sorpresa inaspettata.
 date: '2020-10-01'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-4.jpg
+thumb_image: images/hunger_games.png
 thumb_image_alt: Hunger Games P.T.1
 image_alt: Episode 4 placeholder image
 image_position: right
