@@ -46,7 +46,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Il Calderone
-  description: The preview of the Podcaster theme
+  description: Un Blog Personalissimo
   extra:
     - name: 'og:type'
       value: website
