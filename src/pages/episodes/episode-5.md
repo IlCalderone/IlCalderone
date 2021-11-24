@@ -26,7 +26,7 @@ seo:
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
       keyName: property
     - name: 'og:image'
-      value: images/post-5.jpg
+      value: images/veritas.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
