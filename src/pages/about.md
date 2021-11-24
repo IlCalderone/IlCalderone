@@ -1,5 +1,5 @@
 ---
-title: Io
+title: Chi Sono
 seo:
   title: About
   description: This is the about page
