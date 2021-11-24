@@ -23,7 +23,7 @@ seo:
       value: 'Mulan'
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: Mulan
       keyName: property
     - name: 'og:image'
       value: images/post-2.jpg
