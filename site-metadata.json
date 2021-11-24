@@ -14,7 +14,7 @@
                 "label": "Video",
                 "url": "https://bit.ly/IlCalderoneTubico",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "youtube",
                 "icon_position": "right",
                 "new_window": true,
