@@ -78,7 +78,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "Chi Sono",
                 "url": "/about",
                 "style": "link"
             },
