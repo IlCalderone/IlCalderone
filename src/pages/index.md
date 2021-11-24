@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/2E4C7246-57A3-4FB2-B9C3-308B208726922021-11-14_21-14-56_295.jpeg
+    background_image: images/1766DE05-75A8-4AFC-93A7-EF701087B5A52021-11-21_16-12-55_475.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
