@@ -4,7 +4,7 @@ subtitle: a volte è meglio lasciar perdere
 date: '2020-12-23'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/passpartù-locandina.png
+thumb_image: images/mulan2.png
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Mulan image
