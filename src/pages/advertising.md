@@ -1,6 +1,6 @@
 ---
 title: Patreon
-seo:
+seo: Patreon
   title: Patreon
   description: la pagina di abbonamento Patreon
   extra:
