@@ -14,7 +14,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Il Codice Veritas
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: 'Il Codice Veritas'
   extra:
     - name: 'og:type'
       value: article
