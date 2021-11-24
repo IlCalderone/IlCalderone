@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Episodes",
+                "label": "Podcast",
                 "url": "/episodes",
                 "style": "link"
             },
