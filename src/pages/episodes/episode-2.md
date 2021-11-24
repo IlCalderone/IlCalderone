@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: Soul
+thumb_image_alt: Mulan image
 image_alt: Soul
 image_position: null
 episode_embed_html: >-
