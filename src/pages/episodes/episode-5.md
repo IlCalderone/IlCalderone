@@ -4,7 +4,7 @@ subtitle: come rendere scialba un'idea affascinante
 date: '2020-10-12'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/il_codice_veritas.jpg
+thumb_image: images/veritas.png
 thumb_image_alt: Episode 5 placeholder image
 image_alt: Episode 5 placeholder image
 image_position: left
