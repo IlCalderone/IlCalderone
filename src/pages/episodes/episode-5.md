@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Il Codice Veritas
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Il Codice Veritas'
     - name: 'twitter:image'
       value: images/veritas.png
       relativeUrl: true
