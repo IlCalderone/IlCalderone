@@ -2,7 +2,7 @@
 title: Patreon
 seo:
   title: Patreon
-  description: la pagina 
+  description: la pagina di abbonamento Patreon
   extra:
     - name: 'og:type'
       value: website
