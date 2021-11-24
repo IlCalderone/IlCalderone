@@ -42,7 +42,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Iscriviti al Podcast",
+                "label": "Podcast",
                 "url": "/subscribe",
                 "style": "primary"
             }
