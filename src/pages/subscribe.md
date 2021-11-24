@@ -16,7 +16,8 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: >-
+              https://podcasts.apple.com/it/podcast/il-calderone/id1475693791?uo=4
             style: secondary
             has_icon: true
             icon: arrow-right
