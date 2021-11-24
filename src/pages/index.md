@@ -98,17 +98,15 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          \<iframe 
 
+          src="https://open.spotify.com/embed/show/5mGMZYk6asPYQYyD1LSsgb?utm_source=generator"
+           width="100%" height="232" frameBorder="0" allowfullscreen="" 
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          picture-in-picture">\</iframe>
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
