@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:description'
       value: Mulan
     - name: 'twitter:image'
-      value: images/soul-logo-maxw-824.jpg
+      value: images/mulan2.png
       relativeUrl: true
 template: post
 thumb_image: images/mulan2.png
