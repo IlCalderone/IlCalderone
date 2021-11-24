@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/passpartù-locandina.png
 thumb_image_alt: Passpartù
-image_alt: Episode 3 placeholder image
+image_alt: Passpartù
 image_position: left
 episode_embed_html: >-
   <iframe
