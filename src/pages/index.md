@@ -55,7 +55,7 @@ seo:
       value: Il Calderone
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: Un Blog Personalissimo
       keyName: property
     - name: 'og:image'
       value: images/2021-11-24 12.36.46-5eb90252.png
