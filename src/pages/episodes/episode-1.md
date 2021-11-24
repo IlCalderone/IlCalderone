@@ -24,7 +24,7 @@ seo:
       value: Soul
       keyName: property
     - name: 'og:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: Soul
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
