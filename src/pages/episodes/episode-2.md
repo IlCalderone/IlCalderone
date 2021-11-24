@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: 'Mulan'
       keyName: property
     - name: 'og:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
