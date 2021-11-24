@@ -5,8 +5,8 @@ date: '2020-10-12'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/veritas.png
-thumb_image_alt: Il Codice Veritas
-image_alt: Il Codice Veritas
+thumb_image_alt: Il Codice Veritas image
+image_alt: Il Codice Veritas image
 image_position: left
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/7uSZDC2aJGHcCuPh98bsJa"
