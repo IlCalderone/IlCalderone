@@ -1,8 +1,6 @@
 ---
 title: Mulan
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: a volte è meglio lasciar perdere
 date: '2021-01-06'
 categories:
   - src/data/categories/season-1.yaml
