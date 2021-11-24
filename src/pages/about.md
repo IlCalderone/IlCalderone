@@ -2,7 +2,7 @@
 title: Chi Sono
 seo:
   title: Chi Sono
-  description: This is the about page
+  description: leggi e scoprimi
   extra:
     - name: 'og:type'
       value: website
