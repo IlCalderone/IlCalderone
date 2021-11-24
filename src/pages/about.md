@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: leggi e scoprimi
     - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
