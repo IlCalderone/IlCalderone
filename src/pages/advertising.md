@@ -34,17 +34,13 @@ Vuoi sostenermi? Sul serio? Cioè davvero?
 
 Mi faccio la stessa domanda che ti stai facendo tu (e spero sia questa, che sennò nemmeno la carriera da indovino fa per me):
 
-> **
-> *"perchè mai dovrei sostenerlo anche solo con un caffè al mese?"***
-
+> *"perchè mai dovrei sostenerlo anche solo con un caffè al mese?"*
 
 Siamo pretici va bene?
-Ho iniziato tutto questo tempo fa, abbandonato diverse volte, non per volontà, ma per mia, ma per cause esterne, e dunque è bene che tu sappia che ci potrebbero essere periodi nei quali, il lavoro che mi permette di tener vivo questo progetto da tre anni oramai, con sin troppe lunghe pause, potrebbe portarmi a non aver il tempo per sedermi alla scrivania, davanti alla camera o davanti al microfono, scrivere, registrare e metter online 
+Ho iniziato tutto questo tempo fa, abbandonato diverse volte, non per volontà, ma per mia, ma per cause esterne, e dunque è bene che tu sappia che ci potrebbero essere periodi nei quali, il lavoro che mi permette di tener vivo questo progetto da tre anni oramai, con sin troppe lunghe pause, potrebbe portarmi a non aver il tempo per sedermi alla scrivania, davanti alla camera o davanti al microfono, scrivere, registrare e metter online
 qualcosa che sia degno di ciò che non solo stai pagando ma che ci si merita.
 
 Resta il fatto che è comunque qualcosa che potrai disattivare immediatamente.
-
-
 
 ## Intessato?
 
