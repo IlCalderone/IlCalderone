@@ -7,7 +7,7 @@ categories:
 thumb_image: images/passpartù-locandina.png
 thumb_image_alt: Passpartù
 image_alt: Passpartù
-image_position: left
+image_position:
 episode_embed_html: >-
   <iframe
   src="https://open.spotify.com/embed/episode/5BDszefuf3GmtoD588AjQV?utm_source=generator&theme=0"
