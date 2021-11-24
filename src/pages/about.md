@@ -1,5 +1,5 @@
 ---
-title: Chi Sono
+title: Chi Son
 seo:
   title: Chi Sono
   description: leggi e scoprimi
