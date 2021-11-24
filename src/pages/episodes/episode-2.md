@@ -24,7 +24,7 @@ seo:
       value: Mulan
       keyName: property
     - name: 'og:description'
-      value: Soul
+      value: Mulan
       keyName: property
     - name: 'og:image'
       value: images/soul-logo-maxw-824.jpg
