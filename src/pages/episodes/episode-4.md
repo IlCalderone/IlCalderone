@@ -23,7 +23,7 @@ seo:
       value: Hunger Games
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'QHunger Games'
       keyName: property
     - name: 'og:image'
       value: images/post-4.jpg
