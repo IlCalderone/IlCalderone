@@ -23,7 +23,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 20
-    has_border: true
+    has_border: false
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
