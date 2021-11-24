@@ -1,8 +1,6 @@
 ---
 title: Passpartù
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: Operazione doppiozero
 date: '2020-09-03'
 categories:
   - src/data/categories/season-1.yaml
