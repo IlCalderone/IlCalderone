@@ -11,7 +11,7 @@ seo:
       value: Advertising
       keyName: property
     - name: 'og:description'
-      value: This is the advertising page
+      value: la pagina di abbonamento Patreon
       keyName: property
     - name: 'og:image'
       value: images/advertising.png
