@@ -15,7 +15,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: 'Passpartù'
   extra:
     - name: 'og:type'
       value: article
