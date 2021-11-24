@@ -1,7 +1,7 @@
 ---
 title: Patreon
 seo:
-  title: Advertising
+  title: Patreon
   description: This is the advertising page
   extra:
     - name: 'og:type'
