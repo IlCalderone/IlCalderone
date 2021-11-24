@@ -4,9 +4,18 @@ sections:
   - type: hero_section
     title: Benvenuti sul Calderone
     subtitle: un Blog Personalissimo
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      Hei! salve... come tu ci sia capitato qui è un mistero.
+
+      Ma se ci sei, prenditi un momento per leggere e magari ascoltare quello
+      che ho da dire...
+
+
+      Ovvio, ti chiederai su cosa...facile! Su ciò che mi appassiona e mi
+      condisce il quotidiano.
+
+
+      # E' un contenitore delle mie Esperenzie&#xA;&#xA;
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
