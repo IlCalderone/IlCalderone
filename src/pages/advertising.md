@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Advertising
+      value: Patreon
       keyName: property
     - name: 'og:description'
       value: la pagina di abbonamento Patreon
