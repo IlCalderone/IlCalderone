@@ -4,7 +4,7 @@ subtitle: Operazione doppiozero
 date: '2021-01-13'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-3.jpg
+thumb_image: images/passpartù-locandina.png
 thumb_image_alt: Episode 3 placeholder image
 image_alt: Episode 3 placeholder image
 image_position: left
