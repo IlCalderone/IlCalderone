@@ -7,7 +7,7 @@ categories:
 thumb_image: images/hunger_games.png
 thumb_image_alt: Hunger Games P.T.1
 image_alt: Hunger Games P.T.1
-image_position: right
+image_position: 
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/7KVPLT6jPSLOdWAbYSXmjX"
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
