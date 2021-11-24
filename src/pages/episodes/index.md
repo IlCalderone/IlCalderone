@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:title'
       value: Articoli
     - name: 'twitter:description'
-      value: This is the episodes page
+      value: tutto quello di cui ho scritto
     - name: 'twitter:image'
       value: images/post-9.jpg
       relativeUrl: true
