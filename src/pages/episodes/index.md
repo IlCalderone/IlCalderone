@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Episodes
+  title: Articoli
   description: This is the episodes page
   extra:
     - name: 'og:type'
