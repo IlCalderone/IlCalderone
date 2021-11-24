@@ -7,7 +7,7 @@ categories:
 thumb_image: images/soul-logo-maxw-824.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image_alt: Podcast 1 placeholder image
-image_position: left
+image_position:
 episode_embed_html: >-
   <iframe
   src="https://open.spotify.com/embed/episode/0kjS6DEyb3ZnXlWDy6iNUx?utm_source=generator"
