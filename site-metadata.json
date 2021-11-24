@@ -60,7 +60,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Blog",
+                "label": "Articoli",
                 "url": "/episodes",
                 "style": "link"
             },
