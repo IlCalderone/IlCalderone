@@ -32,7 +32,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
+          - label: Iscriviti
             url: >-
               https://open.spotify.com/show/5mGMZYk6asPYQYyD1LSsgb?si=85b4298109114adf
             style: secondary
