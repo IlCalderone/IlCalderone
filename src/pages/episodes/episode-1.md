@@ -15,7 +15,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: ESoul
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  description: Soul
   extra:
     - name: 'og:type'
       value: article
