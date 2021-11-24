@@ -17,16 +17,6 @@
                 "new_window": true
             },
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Sponsoring",
-                "url": "/advertising",
-                "style": "link"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
@@ -35,6 +25,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Sponsoring",
+                "url": "/advertising",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
