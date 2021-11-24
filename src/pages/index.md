@@ -95,27 +95,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >+
-          \<iframe 
-
-          src="https://open.spotify.com/embed/show/5mGMZYk6asPYQYyD1LSsgb?utm_source=generator"
-           width="100%" height="232" frameBorder="0" allowfullscreen="" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; 
-
-          picture-in-picture">\</iframe>
-
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
