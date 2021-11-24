@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: images/733A598A-0014-4EE0-923D-76C7D4A223522021-11-11_13-32-24_164.jpeg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
