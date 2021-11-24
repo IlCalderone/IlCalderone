@@ -8,7 +8,6 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-4.jpg
 thumb_image_alt: Episode 4 placeholder image
-image: images/post-4.jpg
 image_alt: Episode 4 placeholder image
 image_position: right
 episode_embed_html: >-
