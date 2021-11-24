@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/veritas.png
 thumb_image_alt: Il Codice Veritas
-image_alt: Episode 5 placeholder image
+image_alt: Il Codice Veritas
 image_position: left
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/7uSZDC2aJGHcCuPh98bsJa"
