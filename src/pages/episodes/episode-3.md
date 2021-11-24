@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Passpartù
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Passpartù'
     - name: 'twitter:image'
       value: images/post-3.jpg
       relativeUrl: true
