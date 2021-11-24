@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: chi_sono
       keyName: property
     - name: 'og:description'
       value: leggi e scoprimi
