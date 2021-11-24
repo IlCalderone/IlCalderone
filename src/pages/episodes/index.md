@@ -1,5 +1,5 @@
 ---
-title: Episodes
+title: Articoli
 sections:
   - type: hero_section
     title: Articoli
