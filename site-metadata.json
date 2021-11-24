@@ -54,68 +54,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "footer": {
-        "logo": "images/2021-11-24 12.37.24.png",
-        "logo_alt": "Calderone Logo",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Patreon",
-                "url": "/advertising",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Chi Sono",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Terms",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
-        "has_tertiary_nav": false,
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=podcaster&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    },
     "title": "Il Calderone",
     "domain": "https://ilcalderone.netlify.app"
 }
