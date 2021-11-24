@@ -3,7 +3,7 @@ title: Episode 4 - Cur Ipse Pythagoras Et Aegyptum Lustravit
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-10-17'
+date: '2020-10-01'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-4.jpg
