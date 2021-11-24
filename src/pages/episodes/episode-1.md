@@ -14,7 +14,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: ESoul
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
   extra:
     - name: 'og:type'
