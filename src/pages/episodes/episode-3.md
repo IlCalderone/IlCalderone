@@ -27,7 +27,7 @@ seo:
       value: 'Passpartù'
       keyName: property
     - name: 'og:image'
-      value: images/post-3.jpg
+      value: images/passpartù-locandina.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
