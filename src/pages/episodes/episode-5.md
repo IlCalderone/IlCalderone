@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
     - name: 'twitter:image'
-      value: images/post-5.jpg
+      value: images/veritas.png
       relativeUrl: true
 template: post
 ---
