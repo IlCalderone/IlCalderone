@@ -2,7 +2,7 @@
 title: Iscriviti al Podcast
 sections:
   - type: hero_section
-    title: Subscribe
+    title: Iscriviti
     subtitle: Pick your favorite podcast platform
     align: center
     padding_top: large
