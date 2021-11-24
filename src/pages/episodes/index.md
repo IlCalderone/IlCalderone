@@ -28,7 +28,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Articoli
-  description: This is the episodes page
+  description: tutto quello di cui ho scritto
   extra:
     - name: 'og:type'
       value: website
