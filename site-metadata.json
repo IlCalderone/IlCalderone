@@ -61,7 +61,7 @@
         "has_primary_nav": true,
         "primary_nav_title": "Il Calderone",
         "primary_nav_links": [],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_title": "lorem-ipsum",
         "secondary_nav_links": [],
         "has_tertiary_nav": true,
