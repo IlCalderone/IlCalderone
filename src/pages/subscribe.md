@@ -3,7 +3,7 @@ title: Iscriviti al Podcast
 sections:
   - type: hero_section
     title: Iscriviti
-    subtitle: Pick your favorite podcast platform
+    subtitle: Scegli la tua piattaforma Podcast preferita
     align: center
     padding_top: large
     padding_bottom: none
