@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/soul-logo-maxw-824.jpg
 thumb_image_alt: Soul
-image_alt: Podcast 1 placeholder image
+image_alt: Soul
 image_position:
 episode_embed_html: >-
   <iframe
