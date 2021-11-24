@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Hunger Games
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: 'Hunger Games'
     - name: 'twitter:image'
       value: images/post-4.jpg
       relativeUrl: true
