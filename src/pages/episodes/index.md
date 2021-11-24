@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episodes
+      value: Articoli
     - name: 'twitter:description'
       value: This is the episodes page
     - name: 'twitter:image'
