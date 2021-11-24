@@ -1,5 +1,5 @@
 ---
-title: Su di me
+title: Io
 seo:
   title: About
   description: This is the about page
