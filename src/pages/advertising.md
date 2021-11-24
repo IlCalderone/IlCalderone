@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Advertising
     - name: 'twitter:description'
-      value: This is the advertising page
+      value: la pagina di abbonamento Patreon
     - name: 'twitter:image'
       value: images/advertising.png
       relativeUrl: true
