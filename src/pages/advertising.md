@@ -1,5 +1,5 @@
 ---
-title: Advertising
+title: Patreon
 seo:
   title: Advertising
   description: This is the advertising page
