@@ -1,7 +1,7 @@
 {
     "layout_type": "boxed",
     "style": "bold",
-    "palette": "green",
+    "palette": "gray",
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
