@@ -40,7 +40,7 @@ seo:
       value: images/soul-logo-maxw-824.jpg
       relativeUrl: true
 template: post
-thumb_image: images/soul-logo-maxw-824.jpg
+thumb_image: images/mulan2.png
 ---
 Vorrei valutare questo film nella maniera più oggettiva possibile ma non posso. Sono figlio degli anni ottanta e novanta, sono figlio delle video cassette con la classica musichetta della Disney, son erede di quei cartoni animati che ora vengono chiamati film d'animazione e anche cercando di sforzarmi e prendendo questo prodotto come qualcosa a sé stante, lo stesso risulta inutile e scialbo, incomprensibile nel 80% della sua totale durata.
 
