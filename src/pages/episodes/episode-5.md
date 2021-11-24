@@ -5,7 +5,7 @@ date: '2020-10-12'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/veritas.png
-thumb_image_alt: Episode 5 placeholder image
+thumb_image_alt: Il Codice Veritas
 image_alt: Episode 5 placeholder image
 image_position: left
 episode_embed_html: >-
