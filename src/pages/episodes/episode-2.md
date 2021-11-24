@@ -4,6 +4,7 @@ subtitle: a volte è meglio lasciar perdere
 date: '2021-01-06'
 categories:
   - src/data/categories/season-1.yaml
+  
 thumb_image_alt: Mulan
 image_alt: Mulan
 image_position:
