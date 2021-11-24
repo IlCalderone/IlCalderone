@@ -1,7 +1,7 @@
 ---
 title: Passpartù
 subtitle: Operazione doppiozero
-date: '2020-09-03'
+date: '2020-09-01'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
