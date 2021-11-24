@@ -13,7 +13,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: 'Mulan'
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
