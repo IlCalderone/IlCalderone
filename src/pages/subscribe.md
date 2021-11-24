@@ -1,5 +1,5 @@
 ---
-title: Subscribe
+title: Iscriviti al Podcast
 sections:
   - type: hero_section
     title: Subscribe
