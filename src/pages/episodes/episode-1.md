@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:description'
       value: Soul
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: images/soul-logo-maxw-824.jpg
       relativeUrl: true
 template: post
 ---
