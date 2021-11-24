@@ -1,8 +1,6 @@
 ---
 title: Il Codice Veritas
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: come rendere scialba un'idea affascinante
 date: '2020-10-12'
 categories:
   - src/data/categories/season-1.yaml
