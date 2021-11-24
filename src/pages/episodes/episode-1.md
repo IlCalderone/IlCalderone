@@ -1,7 +1,7 @@
 ---
 title: Soul
 subtitle: Non solo un film d'animazione
-date: '2020-07-02'
+date: '2020-07-23'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-1.jpg
