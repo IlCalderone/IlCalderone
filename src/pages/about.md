@@ -1,7 +1,7 @@
 ---
 title: Chi Sono
 seo:
-  title: About
+  title: Chi
   description: This is the about page
   extra:
     - name: 'og:type'
