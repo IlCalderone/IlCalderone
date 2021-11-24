@@ -14,7 +14,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: 'Mulan'
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: QMulan
   extra:
     - name: 'og:type'
       value: article
