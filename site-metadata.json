@@ -23,7 +23,7 @@
                 "has_icon": true,
                 "icon": "youtube",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             },
             {
