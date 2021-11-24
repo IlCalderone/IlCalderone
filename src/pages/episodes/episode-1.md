@@ -43,21 +43,12 @@ seo:
       relativeUrl: true
 template: post
 ---
-Può un film di animazione essere l’equivalente di un cazzotto nello stomaco?
+Può un film di animazione essere l’equivalente di un cazzotto nello stomaco? Portarti a riflettere più di quanto normalmente avresti fatto? Porti nella condizione di rivalutare le scelte fatte sino a quel momento?
 
-portarti a riflettere più di quanto normalmente avresti fatto?
+Ebbene Soul, il nuovo film della Disney-Pixar su di me ha avuto esattamente questo effetto. Non lo avrei mai creduto possibile.
 
-porti nella condizione di rivalutare le scelte fatte sino a quel momento?
-
-Ebbene Soul, il nuovo film della Disney-Pixar su di me ha avuto esattamente questo effetto.
-
-Non lo avrei mai creduto possibile.
-
-Tanto era l’hype che si era generato dietro a questo titolo che non gli avrei dato due lire, memore delle scottature filmiche che negli ultimi 
-anni hanno costellato il panorama della mia vita.
-
-Ed invece mi son dovuto ricredere.
-
+Tanto era l’hype che si era generato dietro a questo titolo che non gli avrei dato due lire, memore delle scottature filmiche che negli ultimi
+anni hanno costellato il panorama della mia vita. Ed invece mi son dovuto ricredere.
 Alcune frasi probabilmente rimarranno nel mio immaginario per molto, forse troppo tempo, e questo sicuramente non è un male
 
 > Io voglio l’oceano
@@ -72,13 +63,13 @@ Alcune frasi probabilmente rimarranno nel mio immaginario per molto, forse tropp
 
 Ebbene in questo aneddoto che viene raccontato si può riassumere, credo, la vita di molti di noi.
 
-Cerchiamo invano di inseguire qualcosa, di cercare la grandezza alla fine della scalata, della strada, senza renderci conto che quello che 
-stiamo cercando è già attorno a noi, lo stiamo vivendo senza nemmeno accorgercene. Pigri, sordi e ciechi a quello che la vita normalmente ci 
+Cerchiamo invano di inseguire qualcosa, di cercare la grandezza alla fine della scalata, della strada, senza renderci conto che quello che
+stiamo cercando è già attorno a noi, lo stiamo vivendo senza nemmeno accorgercene. Pigri, sordi e ciechi a quello che la vita normalmente ci
 arriva a dare.
 
-Poi capita qualcosa, che può essere un evento straordinario, o un semplice film d’animazione e ti metti a riflettere su quello che ti 
+Poi capita qualcosa, che può essere un evento straordinario, o un semplice film d’animazione e ti metti a riflettere su quello che ti
 circonda…ed allora senti come se un peso dallo sterno prenda a scivolare sempre più giù nel profondo, sino ad annichilirsi per sempre.
-Inizi a respirare, ti senti maledettamente più leggero, ed inizi a renderti conto che quello che volevi con ardore, in parte lo hai anche 
+Inizi a respirare, ti senti maledettamente più leggero, ed inizi a renderti conto che quello che volevi con ardore, in parte lo hai anche
 iniziato già ad ottenere.
 
 Ed è quando si arriva a questa consapevolezza che s’arriva a poter apprezzare il piccolo del nostro quotidiano che non fa altro che concorrere a creare quella montagna che alla fine del percorso avremo sempre voluto trovare e sulla quale avremo sempre voluto ergerci per godere del panorama che riempirà di meraviglia, divenendo il nostro fine ultimo.
@@ -99,4 +90,3 @@ Un consiglio spassionato: prendetevi il tempo di godere di questo capolavoro.
 Ponetevi ad esso con l’animo più libero di cui siete capaci e lasciatevi scardinare dai suoi concetti, che risiedono latenti in ognuno di noi, ma che non abbiam la forza di far venire fuori.
 
 Buona Visione!
-
