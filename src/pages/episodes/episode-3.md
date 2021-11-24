@@ -14,7 +14,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Passpartù
   description: 'Passpartù'
   extra:
     - name: 'og:type'
