@@ -1,7 +1,7 @@
 ---
 title: Passpartù
 subtitle: Operazione doppiozero
-date: '0202-01-13'
+date: '2021-01-13'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
