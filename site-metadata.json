@@ -69,18 +69,7 @@
     "footer": {
         "logo_alt": "Il Calderone",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "alla fine tocca presentarsi no?",
-                "url": "/thank-you",
-                "style": "link",
-                "has_icon": false,
-                "icon": "apple-podcasts",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": false,
         "secondary_nav_title": "lorem-ipsum",
         "secondary_nav_links": [],
