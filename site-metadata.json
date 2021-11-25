@@ -29,11 +29,6 @@
                 "has_icon": false
             },
             {
-                "label": "Chi Sono",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Sostienimi",
                 "url": "/advertising",
                 "style": "link"
