@@ -21,7 +21,7 @@
                 "no_follow": false
             },
             {
-                "label": "Articoli",
+                "label": "Articoli in Sito",
                 "url": "/episodes",
                 "style": "link",
                 "new_window": true,
