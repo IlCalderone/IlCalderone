@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Benvenuti sul Calderone
+    title: Benvenuta/o sul Calderone
     subtitle: un Blog Personalissimo
     content: |
       Hei! Come tu ci sia capitato qui è un mistero.
