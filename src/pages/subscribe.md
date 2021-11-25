@@ -52,7 +52,7 @@ sections:
         content_align: center
         actions:
           - label: Iscriviti
-            url: /thank-you
+            url: 'https://www.spreaker.com/show/il-calderone'
             style: secondary
             has_icon: true
             icon: arrow-right
