@@ -5,7 +5,6 @@ date: '2020-12-23'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
 thumb_image_alt: Mulan image
 image_alt: mulan
 image_position: null
