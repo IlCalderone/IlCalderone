@@ -80,7 +80,7 @@
         "social_links": [
             {
                 "label": "lorem-ipsum",
-                "url": "Instagram",
+                "url": "https://www.instagram.com/il_calderone/",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
