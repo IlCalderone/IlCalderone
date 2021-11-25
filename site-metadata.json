@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Video",
+                "label": "Video sul Tubo",
                 "url": "https://bit.ly/IlCalderoneTubico",
                 "style": "link",
                 "has_icon": false,
@@ -21,17 +21,12 @@
                 "no_follow": false
             },
             {
-                "label": "Articoli",
+                "label": "Articoli in Sito",
                 "url": "/episodes",
                 "style": "link",
                 "new_window": true,
                 "icon": "spotify",
                 "has_icon": false
-            },
-            {
-                "label": "Sostienimi",
-                "url": "/advertising",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
