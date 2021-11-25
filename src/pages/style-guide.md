@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Vuoi Sostenermi?
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
@@ -25,107 +25,32 @@ seo:
         content
 template: page
 ---
+**Cosa è il Calderone:**
 
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
+Come il nome suggerisce, è il ricettacolo di tutte le mie passioni e/o le cose di cui mi vien voglia, non solo di parlare, ma anche e sopratutto di condividere:
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
+1.  Tv & Serie TV,
 
-## Quoting
+2.  D\&D (versione PBC in maniera particolareggiata),
 
-Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
+3.  Libri (leggo abbastanza e ho ancora molto da leggere),
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. 
+4.  i KM-Pensieri (quelle menate nmentali che mi vengono quando, superata una certa soglia chilometrica, la mente va oltre la semplice fatica)
 
-> Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam.
+**Come si articola tutto:**
 
-In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+1.  Video su Youtube
 
-In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dictum, justo turpis placerat est, sed luctus nunc elit eu odio. Phasellus imperdiet, nulla a elementum tempor, nisi elit tincidunt dolor, eget venenatis metus libero et elit.
+2.  Podcast sulle maggiori piattaforme (in realtà credo di esser approdato su tutte, manco fossi un virus)
 
-Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
+3.  Articoli sul sito
 
-## Unordered and Ordered Lists
+Ed ora la parte più importante: *perchè mai dovrei sostenerlo anche solo con un caffè al mese?*
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+La sincerità prima di tutto:
+è bene che tu sappia che ci potrebbero essere periodi nei quali, il lavoro che mi permette di tener vivo questo progetto da tre anni oramai, con sin troppe lunghe pause, potrebbe portarmi a non aver il tempo per sedermi alla scrivania, davanti alla camera o davanti al microfono, scrivere, registrare e metter online qualcosa che sia degno di ciò che non solo stai pagando ma che ci si merita.
+Ma è comunque qualcosa che potrai disattivare immediatamente se dovesse divenire troppo oneroso.
 
-***
+E per rispondere a quanto sopra:
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
-
-## Inline Elements
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code` with `back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+Sulla pagina [Patreon](https://www.patreon.com/ilcalderone) trovi tutti i dettagli
