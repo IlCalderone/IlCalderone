@@ -30,7 +30,7 @@
             },
             {
                 "label": "Vuoi Sostenermi?",
-                "url": "lorem-ipsum",
+                "url": "/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "apple-podcasts",
