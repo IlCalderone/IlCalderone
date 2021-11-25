@@ -40,7 +40,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: images/733A598A-0014-4EE0-923D-76C7D4A223522021-11-11_13-32-24_164.jpeg
+    background_image: images/114BF3F5-7B17-4C50-BF78-8E7B9CF9DDCA2021-11-09_19-44-12_227.jpeg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
