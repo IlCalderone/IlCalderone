@@ -1,7 +1,7 @@
 ---
 title: About
 seo: 
-  title: Chi Sono
+  title: About
   description: leggi e scoprimi
   extra:
     - name: 'og:type'
