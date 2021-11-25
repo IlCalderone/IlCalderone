@@ -54,7 +54,8 @@
             {
                 "label": "Iscriviti al Podcast",
                 "url": "/subscribe",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ],
         "has_anncmnt": true,
