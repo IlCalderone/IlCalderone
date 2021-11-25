@@ -22,6 +22,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
         actions_align: center
         image: images/icon-1.svg
         image_alt: Apple Podcasts icon
