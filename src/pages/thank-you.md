@@ -5,7 +5,7 @@ sections:
     title: Thank You!
     subtitle: Thank you for testing this theme!
     actions:
-      - label: Back to homepage
+      - label: Torna alla Home
         url: /
         style: primary
     align: center
