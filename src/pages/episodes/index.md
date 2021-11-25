@@ -2,7 +2,7 @@
 title: Articoli
 sections:
   - type: hero_section
-    title: Articoli
+    title: Leggi
     subtitle: tutto quello di cui ho scritto
     align: center
     padding_top: medium
