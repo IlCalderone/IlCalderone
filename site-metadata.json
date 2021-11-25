@@ -27,11 +27,6 @@
                 "new_window": true,
                 "icon": "spotify",
                 "has_icon": false
-            },
-            {
-                "label": "Sostienimi",
-                "url": "/advertising",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
