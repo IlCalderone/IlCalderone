@@ -5,8 +5,8 @@ sections:
     title: Benvenuta/o sul Calderone
     subtitle: un Blog Personalissimo
     content: |
-      Nessuna pubblicità. Nessuna immagine. Solo parole scritte.**
-      Buona Lettura**
+      Nessuna pubblicità. Nessuna immagine. Solo parole scritte.
+      **Buona Lettura**
     actions:
       - label: Link utili
         url: 'https://beacons.ai/ilcalderone'
