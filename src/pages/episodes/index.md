@@ -3,7 +3,7 @@ title: Articoli
 sections:
   - type: hero_section
     title: Leggi
-    subtitle: tutto quello di cui ho scritto
+    subtitle: tutto quello su cui ho scritto
     align: center
     padding_top: medium
     padding_bottom: small
