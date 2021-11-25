@@ -97,16 +97,6 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
-            },
-            {
-                "label": "Telegram",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "has_icon": false,
-                "icon": "apple-podcasts",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "content": "© il Calderone. Tutti i diritti riservati.",
