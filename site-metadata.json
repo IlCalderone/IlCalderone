@@ -37,6 +37,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "e Presentiamoci",
+                "url": "/thank-you",
+                "style": "link",
+                "has_icon": false,
+                "icon": "apple-podcasts",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
@@ -59,18 +69,7 @@
     "footer": {
         "logo_alt": "Il Calderone",
         "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "alla fine tocca presentarsi no?",
-                "url": "/thank-you",
-                "style": "link",
-                "has_icon": false,
-                "icon": "apple-podcasts",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false
-            }
-        ],
+        "primary_nav_links": [],
         "has_secondary_nav": false,
         "secondary_nav_title": "lorem-ipsum",
         "secondary_nav_links": [],
@@ -78,10 +77,30 @@
         "tertiary_nav_title": "lorem-ipsum",
         "tertiary_nav_links": [],
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "Intagram",
+                "url": "https://www.instagram.com/il_calderone/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/IlCalderone",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "content": "© il Calderone. Tutti i diritti riservati.",
         "links": [],
-        "logo": "images/2021-11-24 12.37.24.png",
         "primary_nav_title": " "
     }
 }

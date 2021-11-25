@@ -4,7 +4,6 @@ subtitle: come rendere scialba un'idea affascinante
 date: '2020-10-12'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/veritas.png
 thumb_image_alt: Il Codice Veritas image
 image_alt: Il Codice Veritas image
 image_position: left
@@ -14,7 +13,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Il Codice Veritas
-  description: 'Il Codice Veritas'
+  description: Il Codice Veritas
   extra:
     - name: 'og:type'
       value: article
@@ -23,7 +22,7 @@ seo:
       value: Il Codice Veritas
       keyName: property
     - name: 'og:description'
-      value: 'Il Codice Veritas'
+      value: Il Codice Veritas
       keyName: property
     - name: 'og:image'
       value: images/veritas.png
@@ -34,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Il Codice Veritas
     - name: 'twitter:description'
-      value: 'Il Codice Veritas'
+      value: Il Codice Veritas
     - name: 'twitter:image'
       value: images/veritas.png
       relativeUrl: true

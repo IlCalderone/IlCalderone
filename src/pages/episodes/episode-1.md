@@ -4,10 +4,9 @@ subtitle: Non solo un film d'animazione
 date: '2020-12-23'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/soul-logo-maxw-824.jpg
 thumb_image_alt: Soul
 image_alt: Soul
-image_position:
+image_position: null
 episode_embed_html: >-
   <iframe
   src="https://open.spotify.com/embed/episode/0kjS6DEyb3ZnXlWDy6iNUx?utm_source=generator"

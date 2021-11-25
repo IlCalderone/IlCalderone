@@ -4,17 +4,16 @@ subtitle: Una sorpresa inaspettata.
 date: '2020-10-01'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/hunger_games.png
 thumb_image_alt: Hunger Games P.T.1
 image_alt: Hunger Games P.T.1
-image_position:
+image_position: null
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/7KVPLT6jPSLOdWAbYSXmjX"
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Hunger Games
-  description: 'Hunger Games'
+  description: Hunger Games
   extra:
     - name: 'og:type'
       value: article
@@ -23,7 +22,7 @@ seo:
       value: Hunger Games
       keyName: property
     - name: 'og:description'
-      value: 'Hunger Games'
+      value: Hunger Games
       keyName: property
     - name: 'og:image'
       value: images/hunger_games.png
@@ -34,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Hunger Games
     - name: 'twitter:description'
-      value: 'Hunger Games'
+      value: Hunger Games
     - name: 'twitter:image'
       value: images/hunger_games.png
       relativeUrl: true

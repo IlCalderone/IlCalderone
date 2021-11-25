@@ -4,10 +4,9 @@ subtitle: Operazione doppiozero
 date: '2021-01-13'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/passpartù-locandina.png
 thumb_image_alt: Passpartù
 image_alt: Passpartù
-image_position:
+image_position: null
 episode_embed_html: >-
   <iframe
   src="https://open.spotify.com/embed/episode/5BDszefuf3GmtoD588AjQV?utm_source=generator&theme=0"
@@ -15,7 +14,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Passpartù
-  description: 'Passpartù'
+  description: Passpartù
   extra:
     - name: 'og:type'
       value: article
@@ -24,7 +23,7 @@ seo:
       value: Passpartù
       keyName: property
     - name: 'og:description'
-      value: 'Passpartù'
+      value: Passpartù
       keyName: property
     - name: 'og:image'
       value: images/passpartù-locandina.png
@@ -35,7 +34,7 @@ seo:
     - name: 'twitter:title'
       value: Passpartù
     - name: 'twitter:description'
-      value: 'Passpartù'
+      value: Passpartù
     - name: 'twitter:image'
       value: images/passpartù-locandina.png
       relativeUrl: true

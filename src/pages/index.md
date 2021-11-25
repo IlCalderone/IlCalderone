@@ -2,11 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Benvenuti sul Calderone
+    title: Benvenuta/o sul Calderone
     subtitle: un Blog Personalissimo
     content: |
-      Hei! Come tu ci sia capitato qui è un mistero.
-      Ma se ci sei, prenditi un momento per scoprire cosa bolle in pentola.
+      Nessuna pubblicità. Nessuna immagine. Solo parole scritte.
+      **Buona Lettura**
     actions:
       - label: Link utili
         url: 'https://beacons.ai/ilcalderone'
