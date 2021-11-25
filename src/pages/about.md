@@ -1,6 +1,6 @@
 ---
 title: Chi Sono
-seo:
+seo: 
   title: Chi Sono
   description: leggi e scoprimi
   extra:
