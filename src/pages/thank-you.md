@@ -11,5 +11,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    content: |
+      adasdas
 template: advanced
 ---
