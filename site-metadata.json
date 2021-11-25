@@ -102,7 +102,7 @@
                 "label": "Telegram",
                 "url": "lorem-ipsum",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "apple-podcasts",
                 "icon_position": "right",
                 "new_window": false,
