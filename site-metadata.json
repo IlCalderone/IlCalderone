@@ -35,7 +35,7 @@
                 "has_icon": false,
                 "icon": "apple-podcasts",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             },
             {
@@ -45,7 +45,7 @@
                 "has_icon": false,
                 "icon": "apple-podcasts",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
@@ -54,7 +54,8 @@
             {
                 "label": "Iscriviti al Podcast",
                 "url": "/subscribe",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ],
         "has_anncmnt": true,
@@ -85,7 +86,7 @@
                 "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             },
             {
@@ -95,7 +96,7 @@
                 "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "right",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
