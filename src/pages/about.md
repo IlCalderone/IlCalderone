@@ -11,7 +11,7 @@ seo:
       value: about
       keyName: property
     - name: 'og:description'
-      value: leggi e scoprimi
+      value: about
       keyName: property
     - name: 'og:image'
       value: images/about.png
