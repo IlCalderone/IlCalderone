@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Arcane
-image_alt: Soul
+image_alt: Arcane
 image_position: null
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/3PmZI3pdxIOOt25hqUChyH"
