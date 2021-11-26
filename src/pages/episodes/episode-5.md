@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: Il Codice Veritas
     - name: 'twitter:image'
-      value: images/veritas.png
+      value: null
       relativeUrl: true
 template: post
 ---
