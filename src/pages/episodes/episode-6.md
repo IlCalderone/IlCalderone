@@ -10,7 +10,7 @@ thumb_image_alt: Soul
 image_alt: Soul
 image_position: null
 episode_embed_html: >-
-  <iframe src="https://open.spotify.com/embed/episode/75sT2VxV7Jxi7pOxwzeNUz"
+  <iframe src="https://open.spotify.com/embed/episode/3PmZI3pdxIOOt25hqUChyH"
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
