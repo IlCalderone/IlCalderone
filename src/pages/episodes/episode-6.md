@@ -24,7 +24,7 @@ seo:
       value: Arcane
       keyName: property
     - name: 'og:description'
-      value: Soul
+      value: Arcane
       keyName: property
     - name: 'og:image'
       value: images/soul-logo-maxw-824.jpg
