@@ -26,7 +26,7 @@ seo:
       value: Mulan
       keyName: property
     - name: 'og:image'
-      value: images/mulan2.png
+      value: null
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
