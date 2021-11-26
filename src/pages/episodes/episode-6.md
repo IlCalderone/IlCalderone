@@ -1,6 +1,6 @@
 ---
 title: Arcane
-subtitle: Non solo un film d'animazione
+subtitle: Un ottimo crescendo. Vi ha rotto il cazzo.
 date: '2020-12-23'
 categories:
   - src/data/categories/season-1.yaml
