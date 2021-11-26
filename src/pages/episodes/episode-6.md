@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Soul
+      value: Arcane
     - name: 'twitter:description'
       value: Soul
     - name: 'twitter:image'
