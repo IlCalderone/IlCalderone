@@ -5,7 +5,7 @@ date: '2021-11-26'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: Arcane
 thumb_image_alt: Arcane
 image_alt: Arcane
 image_position: null
