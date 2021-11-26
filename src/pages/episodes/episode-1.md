@@ -13,7 +13,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: ESoul
+  title: Soul
   description: Soul
   extra:
     - name: 'og:type'
@@ -26,7 +26,7 @@ seo:
       value: Soul
       keyName: property
     - name: 'og:image'
-      value: images/soul-logo-maxw-824.jpg
+      value: null
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: Soul
     - name: 'twitter:image'
-      value: images/soul-logo-maxw-824.jpg
+      value: null
       relativeUrl: true
 template: post
 ---

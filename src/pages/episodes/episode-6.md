@@ -14,30 +14,30 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: ESoul
-  description: Soul
+  title: Arcane
+  description: Arcane
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Soul
+      value: Arcane
       keyName: property
     - name: 'og:description'
-      value: Soul
+      value: Arcane
       keyName: property
     - name: 'og:image'
-      value: images/soul-logo-maxw-824.jpg
+      value: null
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Soul
+      value: Arcane
     - name: 'twitter:description'
-      value: Soul
+      value: Arcane
     - name: 'twitter:image'
-      value: images/soul-logo-maxw-824.jpg
+      value: null
       relativeUrl: true
 template: post
 ---
