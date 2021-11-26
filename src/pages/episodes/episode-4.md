@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:description'
       value: Hunger Games
     - name: 'twitter:image'
-      value: images/hunger_games.png
+      value: null
       relativeUrl: true
 template: post
 ---
