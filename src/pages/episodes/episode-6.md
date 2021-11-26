@@ -42,50 +42,44 @@ seo:
       relativeUrl: true
 template: post
 ---
-Può un film di animazione essere l’equivalente di un cazzotto nello stomaco? Portarti a riflettere più di quanto normalmente avresti fatto? Porti nella condizione di rivalutare le scelte fatte sino a quel momento?
+Ed eccomi a scrivere, dopo aver fatto ben tre video e relativi podcast su Arcane, si okay, la serie fatta da Riot Games in collaborazione con Netflix. Dio e quante volte l’ho detto… pare solo a me o sono abbastanza ripetitivo?
 
-Ebbene Soul, il nuovo film della Disney-Pixar su di me ha avuto esattamente questo effetto. Non lo avrei mai creduto possibile.
+Ahhh Benny! Rimani concentrato sul core di questo sprazzo di pagina online.
 
-Tanto era l’hype che si era generato dietro a questo titolo che non gli avrei dato due lire, memore delle scottature filmiche che negli ultimi
-anni hanno costellato il panorama della mia vita. Ed invece mi son dovuto ricredere.
-Alcune frasi probabilmente rimarranno nel mio immaginario per molto, forse troppo tempo, e questo sicuramente non è un male
+Tornando a noi.
 
-> Io voglio l’oceano
->
-> Ma come l’oceano, quello dove stai nuotando è l’oceano…
->
-> Questo? ma questa è solo acqua…
->
-> Io voglio l’oceano
+Una serie godibilissima, che dall’inizio alla fine ti riesce a coinvolgere, meno due puntate, e nell’ordine, la numero 5-6, che se fossero state riassunte all’interno di una sola, ossia la 4, nessuno se ne sarebbe mai accorto.
 
-> Non ci rendiamo mai conto di cosa viviamo
+Perché dico così? 
 
-Ebbene in questo aneddoto che viene raccontato si può riassumere, credo, la vita di molti di noi.
+1.  Guardatela e lo capirete.
 
-Cerchiamo invano di inseguire qualcosa, di cercare la grandezza alla fine della scalata, della strada, senza renderci conto che quello che
-stiamo cercando è già attorno a noi, lo stiamo vivendo senza nemmeno accorgercene. Pigri, sordi e ciechi a quello che la vita normalmente ci
-arriva a dare.
+2.  Beh se siete arrivati sino a qui: perché sono mosce, senza tanti giri di parole. 
 
-Poi capita qualcosa, che può essere un evento straordinario, o un semplice film d’animazione e ti metti a riflettere su quello che ti
-circonda…ed allora senti come se un peso dallo sterno prenda a scivolare sempre più giù nel profondo, sino ad annichilirsi per sempre.
-Inizi a respirare, ti senti maledettamente più leggero, ed inizi a renderti conto che quello che volevi con ardore, in parte lo hai anche
-iniziato già ad ottenere.
+Si vede l’eterna lotta di quella che sarà Jinx, tra ciò che era e ciò che alla fine sappiamo tutti diverrà. Silco viene messo in ombra da una tiritera infinita di inseguimenti alla futura Jinx nelle sue paranoie, apparendo di tanto in tanto, meno Silco di quanto invece non lo è stato nelle prime tre, e poi lo sarà nelle ultime, dove raggiunge il suo massimo a mio giudizio.
+Per non parlare poi di Vi che, partita davvero bene, va scemando non solo nelle due puntate sopra citate, ma peggio, quasi svanisce arrivando alla fine della serie, riducendosi ad una macchietta di una sorella disperata che si rammarica ogni quattro scene in croce, per poi riprendersi in brevissimi sprazzi.
+Quando ha poi la vera opportunità, di fare qualcosa, di metter una pezza al suo più grande errore: l’aver abbandonato la povera futura Jinx. 
+Ecco che, signori miei, ebbene si, lei se ne fotte e porta in salvo una Caitlyn conosciuta si e no qualche settimana dietro? E voglio essere buono sulle tempistiche.
 
-Ed è quando si arriva a questa consapevolezza che s’arriva a poter apprezzare il piccolo del nostro quotidiano che non fa altro che concorrere a creare quella montagna che alla fine del percorso avremo sempre voluto trovare e sulla quale avremo sempre voluto ergerci per godere del panorama che riempirà di meraviglia, divenendo il nostro fine ultimo.
+Ecco si le tempistiche, un altro punto dolente di queste puntate di mezzo (si vede come non mi siano scese per nulla eh). 
+Passiamo dalle prime tre dove è palese l’età delle due, a quello che poi sarà il tempo di svolgimento di tutto il resto dell’arco narrativo, senza che venga spiegato una fava. Ma nemmeno la buccia della fava, badate. 
+Avrebbero potuto sfruttare l’episodio n.5 per fare un bellissimo flashback riguardante Vi, il 6 invece per poter raccontare come sia stata la vita di Jinx con Silco e la sua banda, prima di essere effettivamente la sua “punta di diamante” o “figlioccia”.
 
-Un passo in più su di un cammino nebbioso
+Ma sinceramente, perché farlo? 
+Perché avrebbe giovato forse a tutti.
 
-E quindi torno a chiedermi, può un film di animazione riuscire a sradicare una persona dal tedio della sua vita, come un calcio al culo?
-Può sciogliere quelle catene di ghiaccio che ancorano al terreno impedendo di muoversi? Dopo UP, dopo Inside Out, dopo Dumbo (Potrei continuare all’infinito a citare capolavori d’animazione odierdi e di altri tempi) Soul ha esattamente questo struggente effetto.
+Come detto anche in video e per podcast, Silco è il villan che questa serie si merita e che starebbe bene anche in molte altre serie. Risoluto, con una morale, certo avvelenata, ma che non viene abbandonata nemmeno dalla promessa di un potere facile, o peggio, dal raggiungimento del suo obiettivo finale: fare dei “vicoli”, dei “sotterranei”, insomma del “mondo di sotto” una Nazione Libera.
+Certo si, con tutti i se ed i ma del caso e con lui a capo, ma sinceramente, che vogliamo vedere la pagliuzza adesso?
+Jinx a parer mio ha la più bella evoluzione finale che abbia mai visto. Partita in sordina, e premendo, forse un pochino troppo spesso sul concetto dell’abbandono, e della dualità del suo animo, diventa un villan secondario con i controcazzi. 
 
-Una doccia fredda in un periodo maledetto.
+**Davvero ben fatto.**
 
-Un lasso di tempo lento e terribile che ha avuto la capacità di scardinare le certezze di molti gettandosi nel più profondo panico obliante.
+Sugli altri personaggi, da Victor a tutto il resto della banda che, leggete leggermente più sopra, sfioriscono e si adombrano chi più chi meno, non mi soffermo in questo scritto, perché:
 
-La Scintilla
+*   Ne ho parlato sia in Podcast che in Video.
 
-Un consiglio spassionato: prendetevi il tempo di godere di questo capolavoro.
+*   E’ palese come il giorno e la notte che ci sarà una seconda serie volta, spero ad approfondire gli altri personaggi.
 
-Ponetevi ad esso con l’animo più libero di cui siete capaci e lasciatevi scardinare dai suoi concetti, che risiedono latenti in ognuno di noi, ma che non abbiam la forza di far venire fuori.
+Ora la smetto di scrivere, mollo il pc, carico tutto e me ne vado a lavoro.
 
-Buona Visione!
+Ciao bella gente!
