@@ -1,7 +1,7 @@
 ---
 title: Arcane
 subtitle: Un ottimo crescendo. Vi ha rotto il cazzo.
-date: '2020-12-23'
+date: '2020-12-02'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
