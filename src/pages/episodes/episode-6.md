@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Arcane
     - name: 'twitter:description'
-      value: Soul
+      value: Arcane
     - name: 'twitter:image'
       value: null
       relativeUrl: true
