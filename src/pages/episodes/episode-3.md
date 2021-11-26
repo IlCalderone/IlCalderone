@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:description'
       value: Passpartù
     - name: 'twitter:image'
-      value: images/passpartù-locandina.png
+      value: null
       relativeUrl: true
 template: post
 ---
