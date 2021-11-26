@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Soul
+      value: Arcane
       keyName: property
     - name: 'og:description'
       value: Soul
