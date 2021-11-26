@@ -25,7 +25,7 @@ seo:
       value: Il Codice Veritas
       keyName: property
     - name: 'og:image'
-      value: images/veritas.png
+      value: null
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
