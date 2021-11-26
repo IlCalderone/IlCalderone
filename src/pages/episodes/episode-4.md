@@ -25,7 +25,7 @@ seo:
       value: Hunger Games
       keyName: property
     - name: 'og:image'
-      value: images/hunger_games.png
+      value: null
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
