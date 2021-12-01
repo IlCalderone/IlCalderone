@@ -5,7 +5,7 @@ date: '2021-12-01'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: Arcane
+excerpt: Shang-Chi
 thumb_image_alt: Arcane
 image_alt: Arcane
 image_position: null
