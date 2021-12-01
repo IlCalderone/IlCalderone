@@ -41,44 +41,47 @@ seo:
       relativeUrl: true
 template: post
 ---
-Ed eccomi a scrivere, dopo aver fatto ben tre video e relativi podcast su Arcane, si okay, la serie fatta da Riot Games in collaborazione con Netflix. Dio e quante volte l’ho detto… pare solo a me o sono abbastanza ripetitivo?
+Come si può definire “La leggenda dei 10 Anelli”? Oh si facile, per nulla Leggen… aspettate un momento…Daria.
 
-Ahhh Benny! Rimani concentrato sul core di questo sprazzo di pagina online.
+Questa che avete letto qui sopra potrebbe essere la migliore battuta non inserita in questo film ma che vi fa capire quale sia il reale andazzo di tutto il girato.
 
-Tornando a noi.
+E pensare che ho fatto una registrazione di oltre trenta minuti mandata in vacca e da rifare completamente su sta pellicola di merda… boia miseria.
 
-Una serie godibilissima, che dall’inizio alla fine ti riesce a coinvolgere, meno due puntate, e nell’ordine, la numero 5-6, che se fossero state riassunte all’interno di una sola, ossia la 4, nessuno se ne sarebbe mai accorto.
+Ma tralasciando i miei problemi di video-maker allo sbaraglio con una spolverata di niubbo da web, e tornando in argomento, la sola cosa davvero “positiva” di tutto questo è la canzone che ho da sottofondo mentre scrivo (Wellerman - Sea Shanty). Perché proprio nulla si arriva a salvare.
+La prima mezz’ora ti prende anche, se ti abbandoni ad una buonissima dose di sospensione dell’incredulità, ma poi, beh, poi quella puzza di letame sale furente dai letargici recessi nei quali la tua coscienza va a spingerla per non farti mangiare le mani al pagamento dell’abbonamento annuale di Disney +.
 
-Perché dico così? 
+Il film parte con molte aspettative. Sussurra e fa immaginare il potere ancestrale di questi 10 anelli, di questi fantomatici oggetti dell’oltre mondo, oltre regno, oltre sto boh…
 
-1.  Guardatela e lo capirete.
+Non dice un cazzo che sia uno. 
+Che cosa donano? Immortalità? Te lo fa supporre per poi affermarlo a mezza bocca
+Una forza impressionante? Si. No. Forse
+Il Super salto alla Super Mario? Può anche essere ma chi può saperlo?
 
-2.  Beh se siete arrivati sino a qui: perché sono mosce, senza tanti giri di parole. 
+Fino all’ultimo quegli oggetti stanno la, usati certo per far quelle quattro cose che in teoria possono fare, e poi… poi si finisce con “Okay, li hai tu, non sappiamo cosa fanno, sono più antichi del mondo conosciuto, mo so cazzi tuoi attaccati”…” ah si, benvenuto nel circo”
 
-Si vede l’eterna lotta di quella che sarà Jinx, tra ciò che era e ciò che alla fine sappiamo tutti diverrà. Silco viene messo in ombra da una tiritera infinita di inseguimenti alla futura Jinx nelle sue paranoie, apparendo di tanto in tanto, meno Silco di quanto invece non lo è stato nelle prime tre, e poi lo sarà nelle ultime, dove raggiunge il suo massimo a mio giudizio.
-Per non parlare poi di Vi che, partita davvero bene, va scemando non solo nelle due puntate sopra citate, ma peggio, quasi svanisce arrivando alla fine della serie, riducendosi ad una macchietta di una sorella disperata che si rammarica ogni quattro scene in croce, per poi riprendersi in brevissimi sprazzi.
-Quando ha poi la vera opportunità, di fare qualcosa, di metter una pezza al suo più grande errore: l’aver abbandonato la povera futura Jinx. 
-Ecco che, signori miei, ebbene si, lei se ne fotte e porta in salvo una Caitlyn conosciuta si e no qualche settimana dietro? E voglio essere buono sulle tempistiche.
+Come direbbe un saggio che non tutti conoscono: “Ma che, oh!”
 
-Ecco si le tempistiche, un altro punto dolente di queste puntate di mezzo (si vede come non mi siano scese per nulla eh). 
-Passiamo dalle prime tre dove è palese l’età delle due, a quello che poi sarà il tempo di svolgimento di tutto il resto dell’arco narrativo, senza che venga spiegato una fava. Ma nemmeno la buccia della fava, badate. 
-Avrebbero potuto sfruttare l’episodio n.5 per fare un bellissimo flashback riguardante Vi, il 6 invece per poter raccontare come sia stata la vita di Jinx con Silco e la sua banda, prima di essere effettivamente la sua “punta di diamante” o “figlioccia”.
+Avete presente questo che avete letto fino ad ora, queste righe che vi siete costretti a mandare giù? Hanno avuto senso? Sembra vogliano andare da una parte e poi fanno un curvane ad U e tornano indietro ma non beccano manco la strada iniziale? 
 
-Ma sinceramente, perché farlo? 
-Perché avrebbe giovato forse a tutti.
+Vi sentite confusi? Si?
 
-Come detto anche in video e per podcast, Silco è il villan che questa serie si merita e che starebbe bene anche in molte altre serie. Risoluto, con una morale, certo avvelenata, ma che non viene abbandonata nemmeno dalla promessa di un potere facile, o peggio, dal raggiungimento del suo obiettivo finale: fare dei “vicoli”, dei “sotterranei”, insomma del “mondo di sotto” una Nazione Libera.
-Certo si, con tutti i se ed i ma del caso e con lui a capo, ma sinceramente, che vogliamo vedere la pagliuzza adesso?
-Jinx a parer mio ha la più bella evoluzione finale che abbia mai visto. Partita in sordina, e premendo, forse un pochino troppo spesso sul concetto dell’abbandono, e della dualità del suo animo, diventa un villan secondario con i controcazzi. 
+Benissimo, ora sapete cosa si prova a passare oltre due ore a vedere la” Leggenda dei 10 Anelli”.
+Mi sono sentito più vuoto di quando ho premuto play, e non una vuotezza positiva, da post seduta sul cesso, no, una di quelle che ti fanno pensare ai fallimenti della tua vita, al perché magari a quella ragazza non hai parlato anni prima, o perché non hai mandato a cacare quell’amico alla prima occasione. 
 
-**Davvero ben fatto.**
+Sa proprio di occasione mancata. Potevano fare tanto, moltissimo. 
+Iniziando anche solo a spiegare il cosa rende leggendari sti anelli.
+A non rendere il protagonista la controfigura scema del Villain, che è forse l’unico che merita davvero qualcosa in questa pellicola. 
+Una spalla comica che a tratti sovrasta il presunto protagonista, affiancato poi da una sorella fantasma inesistente e di cui ti dimentichi anche di che colore ha i capelli, pure mentre la fissi in faccia. Le hanno dato lo spessore di un filo d’erba.
+Ma il top del top si raggiunge alla battaglia contro il mistico mostro dell’oscurità, il temibile e distruttivo “Vattelappesca dell’oscurità”.
+I protagonisti non servono a nulla, chi lo aveva già battuto la prima volta, lo riempie di mazzate anche questa volta, ed a momenti, proprio a causa dei figlio illegittimo di Naruto e Sorella, ci sta per rimanere anche secco, ma si riprende, due ceffoni d’acqua e via, capitolo chiuso. Il tutto avviene con uno sfondo tra i più ridicoli. Una battaglia inutile e alquanto noiosa. 
 
-Sugli altri personaggi, da Victor a tutto il resto della banda che, leggete leggermente più sopra, sfioriscono e si adombrano chi più chi meno, non mi soffermo in questo scritto, perché:
+Ed a proposito della battaglia. Il Villain si addentra in questo piano mistico, li dove, per bocca sua e della totalità del film, vivono bestie mitologiche, proprio la, in quel luogo, la sua adorata moglie ha trovato i natali ed è diventata tanto forte fa batterlo a più riprese. E tu che fai per raderlo al suolo e liberare l’anima di tua moglie? 
 
-*   Ne ho parlato sia in Podcast che in Video.
+Esatto! Vai la con appena 20 uomini contati su tipo 5 jeep!
+Muniti di balestre di forza e spade? Ma siamo seri?
+Ma prendimi per il culo e dimmi che il passaggio dal quale dovete entrare ha uno spazio temporale di 10 minuti e più di quegli uomini non puoi portare, ed allora ti voglio anche creder, ma così a me pare troppo anche per una degna sospensione della mia capacità di ragionare in un film della Marvel o di un qualsiasi universo eroistico. 
 
-*   E’ palese come il giorno e la notte che ci sarà una seconda serie volta, spero ad approfondire gli altri personaggi.
+Gentaglia che legge, smetto di sbattere le dita sulla tastiera che son le 23.17 e la giornata è stata un cumulo fumante di guano.
+Consiglio spassionato? Evitatevelo sto film, non perdetele 2 ore di vita, lasciate che a farlo sia stato io per voi…
 
-Ora la smetto di scrivere, mollo il pc, carico tutto e me ne vado a lavoro.
-
-Ciao bella gente!
+> Sono forse un eroe? Si, lo sono. 
