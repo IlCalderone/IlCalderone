@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Arcane
+      value: Shang-Chi
       keyName: property
     - name: 'og:description'
       value: Arcane
