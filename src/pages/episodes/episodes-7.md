@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Shang Chi e la Leggenda dei Dieci Anelli
 seo:
   title: ''
   description: ''
