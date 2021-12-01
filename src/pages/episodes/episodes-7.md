@@ -15,7 +15,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Shang-Chi
-  description: Arcane
+  description: Shang-Chi
   extra:
     - name: 'og:type'
       value: article
