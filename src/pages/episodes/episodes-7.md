@@ -1,7 +1,7 @@
 ---
 title: Shang-Chi e la leggenda dei Dieci Anelli
 subtitle: Ho perso inutilmente 2h della mia vita. Evitatevelo.
-date: '2021-11-01'
+date: '2021-01-01'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
