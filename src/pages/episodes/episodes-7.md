@@ -10,7 +10,7 @@ thumb_image_alt: Shang-Chi
 image_alt: Shang-Chi
 image_position: null
 episode_embed_html: >-
-  <iframe src="https://open.spotify.com/embed/episode/3PmZI3pdxIOOt25hqUChyH"
+  <iframe src="https://open.spotify.com/embed/episode/0cPqta87iem5JD21IGApll"
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
