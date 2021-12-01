@@ -24,7 +24,7 @@ seo:
       value: Shang-Chi
       keyName: property
     - name: 'og:description'
-      value: Arcane
+      value: Shang-Chi
       keyName: property
     - name: 'og:image'
       value: null
