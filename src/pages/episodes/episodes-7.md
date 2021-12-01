@@ -1,5 +1,5 @@
 ---
-title: Arcane
+title: Shang-Chi e la leggenda dei Dieci Anelli
 subtitle: Un ottimo crescendo. Vi ha rotto il cazzo.
 date: '2021-11-26'
 categories:
