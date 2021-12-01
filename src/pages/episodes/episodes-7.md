@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: Shang-Chi
 thumb_image_alt: Shang-Chi
-image_alt: Arcane
+image_alt: Shang-Chi
 image_position: null
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/3PmZI3pdxIOOt25hqUChyH"
