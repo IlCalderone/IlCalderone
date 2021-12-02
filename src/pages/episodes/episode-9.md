@@ -1,6 +1,6 @@
 ---
 title: Ci vuole Consapevolezza
-subtitle: La dovete vedere.
+subtitle: 'Basta con sta menata dell''altra metà, cazzo siamo in sconto?'
 date: '2021-12-02'
 categories:
   - src/data/categories/season-1.yaml
