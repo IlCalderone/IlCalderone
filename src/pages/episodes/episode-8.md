@@ -21,7 +21,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Shang-Chi
+      value: Zerocalcare
       keyName: property
     - name: 'og:description'
       value: Shang-Chi
