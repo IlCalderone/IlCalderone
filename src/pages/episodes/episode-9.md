@@ -25,7 +25,7 @@ seo:
       value: Consapevolezza
       keyName: property
     - name: 'og:description'
-      value: Zerocalcare
+      value: Consapevolezza
       keyName: property
     - name: 'og:image'
       value: null
