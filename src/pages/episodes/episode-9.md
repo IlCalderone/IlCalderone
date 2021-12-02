@@ -42,47 +42,27 @@ seo:
       relativeUrl: true
 template: post
 ---
-*Una serie italiana su Netflix?
-Fatta da uno che fa fumetti?
-Non solo scritta? Sceneggiata, fatta e detta?*
+In sottofondo, mentre cerco di buttare queste parole in digitale ho, rispettivamente, DaVinci che cerca, poverello, di raddrizzarmi e renderizzare una prima fase di video, per il successivo montaggio di quella cacata atomica della “Leggenda dei 10 Anelli”, e Spotify che mi canta nelle orecchie Everybody Wants to Be an Astronaut. 
 
-Eccoli li, i pensieri che immagino possano venire al 100% delle persone che, non conoscendo Zerocalcare, si vanno venire. E nella maggior parte dei casi potrebbero anche aver ragione, ma in questo specifico: 
+E voi direte, e quindi?
 
-**VI SBAGLIATE E VE LA DOVETE VEDERE.**
+Quindi riesco ancora a sentire i miei pensieri e per tanto, nonostante tutto, li devo pur vomitare da qualche parte e questa parte guarda un poco è proprio sta pagina di sto bloggettino o blogghettino, come si scrive scrive, che a fa i fighi so tutti bravi, a fa i grezzi ignorantelli siamo oramai pochi.
 
-Non ripeterò sicuramente quanto detto sia in video che nel podcast, sennò facile, vi farei il riassuntino e buona li.
-Nope, mi spiace.
-Andate a recuperare o non fatelo, non cambia la vita di nessuno.
-Ora detta sta cosa Emo-Drammatica andiamo al succo.
+Ma dopo questo preambolo inutile arrivo al sodo, come spesso avviene, i preliminari sono sempre meglio dell’atto in se.
 
-Ma davvero si vuole criticare questa serie, che ti porta via nemmeno 3 ore della tua vita, che ti puoi gustare in un nulla, pure se sei in treno, capace di farti ridere, piangere e rimanere senza manco il fiato per dar aria a quella fogna che hai per bocca, solo perché è parlata nel dialetto romano? 
-Tu, si tu che ti stai lamentando, scommetto che Gomorra per te sia una delle serie Top 3, dimmi illustre illuminato, in cosa è parlata?
-Ahhh i sottotitoli? 
-E dimmi, caro fruitore di contenuti internauti, scommetto che guardi anche i film in lingua originale, un po’ perché sai l’idioma, un pochino perché fa figo? E leggi anche la?
+Ho sentito tanto e spesso quasi tutti quelli che conosco e che invece solo solo visi che sfilano nella mia vita, parlare della costante ed incessante ricerca dell’amore, quasi costantemente, nella loro vita. Ed anche io sono stato uno di loro, che ha abbracciato quel concetto, vuoi o non vuoi, ci si cade tutti in quella trappola adolescenziale, dove le farfalle nello stomaco ti vomitano il pranzo di natale di tre anni prima e tu invece senti solo il profumo delle fragole appena colte e dei fiori che sbocciano, nascondendo nell’intimo, il puzzo di catrame dal quale vengono fuori.
 
-Complimenti, sei uno di quelli che se si mangia i Fonzies non si lecca le dita e gode solo a metà.
-(Dio quanto volevo poterla usare sta similitudine)
+Ma alla soglia dei 34 anni, dai Gesù che ti batto dai… Sono arrivato ad una amara conclusione, puramente personale, che l’amore non è lo step finale. Non è il limite asintotico al quale tendere, ma solo il gradino che precede la “Consapevolezza” che si deve avere non solo di se stessi, ma anche del mondo e della persona che si sceglie di avere vicino.Ora, tutti ci siamo sentiti dire “Se non ami te stesso, prima, non potrai mai amare nessun altro” vero in parte, posso amare me e aver sul cazzo il genere umano. 
 
-Oltre la stronzata ed il facile “insulto”. Una delle poche critiche che si può dare sul parlato è che è a tratti troppo veloce, e magari per chi non è addentro alla lingua ed al dialetto può far fatica. Ma quella signori e signore mie, è una identità culturale. Così come il dialetto napoletano, ed ogni altro sottolinguaggio conosciuto, che si e no sono divenuti anche protetti da qualche ente sovranazionale. Per il semplice fatto che determinano e rendono tale un territorio o un gruppo di persone.
+Ma se io sono consapevole di me, della mia esistenza e di quello che sono e non sono, ed al tempo stesso spingo questa consapevolezza oltre me, riuscendo a comprendere la presenza, prima, e poi ad esser effettivamente consapevole dell’esistenza di altro oltre me, ecco, in quel momento, io posso realmente afferrare il nocciolo della questione umana, minima, di quel momento che devo vivere.
 
-Vero è che oramai si sta andando verso l’appiattimento generale di qualsiasi cosa. Si ha da essere uguali in ogni campo,:
+Esempio facile facile: pochi giorni fa stavo facendo dei rilievi in frana, ora voi direte, e che sono? Na roba brutta, tra fango e strapiombi. Ma assodato che sono uno degli ultimi eroi contemporanei, in perfetto stile boomer rincoglionito, proseguiamo. Ho scavalcato una balaustra di metallo per poter arrivare al punto topografico piazzato su di un pezzo di asfalto oramai andante verso il baratro, orbene, per quante volte l’ho fatto, oramai per me quel gesto, quel pezzo di asfalto, l’ambiente è divenuto consuetudine ed abitudine, tanto che i miei movimenti sono meccanici, rifletto poco, essendo un gesto automatico, appunto ( l’ho ripetuto abbastanza volte si?). Ma questa volta vi era una novità che ho scoperto solamente dopo aver superato quella linea, un avvallamento che prima non vi era, creatosi probabilmente nel mese passato a causa delle forti piogge e sti gran cazzi che poco ve ne frega. Ma l’aver quella mancanza sotto il piede, il sentir l’equilibrio venir meno mi ha fatto cacare sotto ma di brutto. 
 
-*   basta maschio o femmina, ma tutti binari e non binari (ma una curiosità, non è anche questa una forma di distinzione?).
+Passato il momento, mentre continuavo i rilievi ho riflettuto sul fatto, arrivando a far il paragone con i rapporti umani. Quando si sta con una persona, che sia un affetto caro, un’amicizia, un che vi pare e piace, si arriva ad abituarsi anche dell’aria che questi respira, dei dolori, delle preoccupazioni, e si dimentica di ciò che l’altro o altra possono essere. Non si ha quindi la consapevolezza che essi esistano e che siano qualcosa di diverso da noi, ma nemmeno troppo lontani da ciò che siamo in quel momento. 
 
-*   Basta cessi divisi, facciamola insieme! Yeah!
+Quando invece si è consapevoli che dall’altro lato qualcosa esista, e si riesce a mantenere, al pari di quanto si fa con se stessi, quello stato allora le cose cambiano. Perché l’amore sfuma, muta, anche verso il proprio corpo e la propria anima. Ci sono giorni che ci si odia ed altri che ci si esalta, ma si è pur sempre consapevoli di ciò che si è e come lo si è. Bene o male che sia. 
 
-E potrei continuare per molte altre pagine, ma non mi pare il caso.
+**In sintesi? **
 
-Non scordiamoci che siamo quello che siamo per le differenze che abbiamo, sfumature infinitesimali di un multiverso che ha trovato in noi la sua goccia di coagulazione (ma quanto sono filosofico alle 8:10 la mattina).
-E sono quelle differenze che determinano spesso e volentieri delle identità e da queste sono generate, in un serpente che si morde la coda eterno e mai pago.
-
-In sintesi?
-
-Trovate altro per cui rompere il cazzo a sta serie, o a mille altre produzioni anche letterarie, videoludiche. Ma che siano cose serie e realmente pressanti, che lo rendano ingodibile.
-
-Un esempio?
-Live-Action by Netflix di: Fullmetal Alchemist, Death Note, Cowboy Be-bop e probabilmente il futuro adattamento di Attack of Titans.
-
-La dovete scassare la minchia, non qui.
-
-Cià bella gente!
+Finitela con la storia di trovare l’anima gemella, l’altra metà della mela, o il vasetto pe il vostro miele, rimboccatevi le maniche e primo, comprendente chi siete, secondo, abbiate consapevolezza del mondo nel quale vivete e delle persone che lo abitano. Il resto verrà da se.
+***Filosofia spiccia da quattro soldi termina qui per questa sera, per altre strozzate rimanete sintonizzati.***
