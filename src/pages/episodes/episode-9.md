@@ -1,5 +1,5 @@
 ---
-title: Strappare Lungo i Bordi
+title: Ci vuole Consapevolezza
 subtitle: La dovete vedere.
 date: '2021-12-02'
 categories:
