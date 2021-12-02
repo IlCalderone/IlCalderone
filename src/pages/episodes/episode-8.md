@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: Zerocalcare
 thumb_image_alt: Zerocalcare
-image_alt: Shang-Chi
+image_alt: Zerocalcare
 image_position: null
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/0cPqta87iem5JD21IGApll"
