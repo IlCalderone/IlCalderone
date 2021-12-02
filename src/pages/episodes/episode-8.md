@@ -6,7 +6,7 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: Zerocalcare
-thumb_image_alt: Shang-Chi
+thumb_image_alt: Zerocalcare
 image_alt: Shang-Chi
 image_position: null
 episode_embed_html: >-
