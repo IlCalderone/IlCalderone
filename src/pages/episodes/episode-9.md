@@ -16,7 +16,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Consapevolezza
-  description: Zerocalcare
+  description: Consapevolezza
   extra:
     - name: 'og:type'
       value: article
