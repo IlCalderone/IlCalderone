@@ -5,7 +5,7 @@ date: '2021-12-02'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: Zerocalcare
+excerpt: Consapevolezza
 thumb_image_alt: Zerocalcare
 image_alt: Zerocalcare
 image_position: null
