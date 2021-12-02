@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:title'
       value: Consapevolezza
     - name: 'twitter:description'
-      value: Zerocalcare
+      value: Consapevolezza
     - name: 'twitter:image'
       value: null
       relativeUrl: true
