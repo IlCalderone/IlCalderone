@@ -25,7 +25,7 @@ seo:
       value: Hawkeye
       keyName: property
     - name: 'og:description'
-      value: ConsHawkeyeapevolezza
+      value: Consapevolezza
       keyName: property
     - name: 'og:image'
       value: null
