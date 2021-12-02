@@ -1,5 +1,5 @@
 ---
-title: Shang-Chi e la leggenda dei Dieci Anelli
+title: Strappare Lungo i Bordi
 subtitle: Ho perso inutilmente 2h della mia vita. Evitatevelo.
 date: '2021-12-01'
 categories:
