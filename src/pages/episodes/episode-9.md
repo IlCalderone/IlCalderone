@@ -10,7 +10,8 @@ thumb_image_alt: Zerocalcare
 image_alt: Zerocalcare
 image_position: null
 episode_embed_html: >-
-  <iframe src="https://open.spotify.com/embed/episode/0cPqta87iem5JD21IGApll"
+  <iframe
+  src="https://open.spotify.com/embed/show/5mGMZYk6asPYQYyD1LSsgb?utm_source=generator"
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
