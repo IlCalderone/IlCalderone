@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:title'
       value: Hawkeye
     - name: 'twitter:description'
-      value: Consapevolezza
+      value: Hawkeye
     - name: 'twitter:image'
       value: null
       relativeUrl: true
