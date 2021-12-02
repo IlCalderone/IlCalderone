@@ -5,7 +5,7 @@ date: '2021-12-02'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: Shang-Chi
+excerpt: Zerocalcare
 thumb_image_alt: Shang-Chi
 image_alt: Shang-Chi
 image_position: null
