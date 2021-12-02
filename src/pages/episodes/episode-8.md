@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:title'
       value: Zerocalcare
     - name: 'twitter:description'
-      value: Shang-Chi
+      value: Zerocalcare
     - name: 'twitter:image'
       value: null
       relativeUrl: true
