@@ -1,7 +1,7 @@
 ---
 title: Strappare Lungo i Bordi
 subtitle: La dovete vedere.
-date: '2021-12-01'
+date: '2021-12-02'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
