@@ -1,6 +1,6 @@
 ---
 title: Hawkeye
-subtitle: 'Basta con sta menata dell''altra metà, cazzo siamo in sconto?'
+subtitle: 'No, ma che...davvero?'
 date: '2021-12-02'
 categories:
   - src/data/categories/season-1.yaml
