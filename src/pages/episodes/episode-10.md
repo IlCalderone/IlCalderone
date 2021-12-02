@@ -6,8 +6,8 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: Hawkeye
-thumb_image_alt: Consapevolezza
-image_alt: Consapevolezza
+thumb_image_alt: Hawkeye
+image_alt: Hawkeye
 image_position: null
 episode_embed_html: >-
   <iframe
@@ -15,17 +15,17 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Consapevolezza
-  description: Consapevolezza
+  title: Hawkeye
+  description: Hawkeye
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Consapevolezza
+      value: Hawkeye
       keyName: property
     - name: 'og:description'
-      value: Consapevolezza
+      value: ConsHawkeyeapevolezza
       keyName: property
     - name: 'og:image'
       value: null
