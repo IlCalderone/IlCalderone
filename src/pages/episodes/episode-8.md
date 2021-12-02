@@ -24,7 +24,7 @@ seo:
       value: Zerocalcare
       keyName: property
     - name: 'og:description'
-      value: Shang-Chi
+      value: Zerocalcare
       keyName: property
     - name: 'og:image'
       value: null
