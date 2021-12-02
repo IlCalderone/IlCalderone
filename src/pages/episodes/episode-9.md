@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Zerocalcare
+      value: Consapevolezza
       keyName: property
     - name: 'og:description'
       value: Zerocalcare
