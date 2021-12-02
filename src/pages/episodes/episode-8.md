@@ -41,47 +41,47 @@ seo:
       relativeUrl: true
 template: post
 ---
-Come si può definire “La leggenda dei 10 Anelli”? Oh si facile, per nulla Leggen… aspettate un momento…Daria.
+*Una serie italiana su Netflix?
+Fatta da uno che fa fumetti?
+Non solo scritta? Sceneggiata, fatta e detta?*
 
-Questa che avete letto qui sopra potrebbe essere la migliore battuta non inserita in questo film ma che vi fa capire quale sia il reale andazzo di tutto il girato.
+Eccoli li, i pensieri che immagino possano venire al 100% delle persone che, non conoscendo Zerocalcare, si vanno venire. E nella maggior parte dei casi potrebbero anche aver ragione, ma in questo specifico: 
 
-E pensare che ho fatto una registrazione di oltre trenta minuti mandata in vacca e da rifare completamente su sta pellicola di merda… boia miseria.
+**VI SBAGLIATE E VE LA DOVETE VEDERE.**
 
-Ma tralasciando i miei problemi di video-maker allo sbaraglio con una spolverata di niubbo da web, e tornando in argomento, la sola cosa davvero “positiva” di tutto questo è la canzone che ho da sottofondo mentre scrivo (Wellerman - Sea Shanty). Perché proprio nulla si arriva a salvare.
-La prima mezz’ora ti prende anche, se ti abbandoni ad una buonissima dose di sospensione dell’incredulità, ma poi, beh, poi quella puzza di letame sale furente dai letargici recessi nei quali la tua coscienza va a spingerla per non farti mangiare le mani al pagamento dell’abbonamento annuale di Disney +.
+Non ripeterò sicuramente quanto detto sia in video che nel podcast, sennò facile, vi farei il riassuntino e buona li.
+Nope, mi spiace.
+Andate a recuperare o non fatelo, non cambia la vita di nessuno.
+Ora detta sta cosa Emo-Drammatica andiamo al succo.
 
-Il film parte con molte aspettative. Sussurra e fa immaginare il potere ancestrale di questi 10 anelli, di questi fantomatici oggetti dell’oltre mondo, oltre regno, oltre sto boh…
+Ma davvero si vuole criticare questa serie, che ti porta via nemmeno 3 ore della tua vita, che ti puoi gustare in un nulla, pure se sei in treno, capace di farti ridere, piangere e rimanere senza manco il fiato per dar aria a quella fogna che hai per bocca, solo perché è parlata nel dialetto romano? 
+Tu, si tu che ti stai lamentando, scommetto che Gomorra per te sia una delle serie Top 3, dimmi illustre illuminato, in cosa è parlata?
+Ahhh i sottotitoli? 
+E dimmi, caro fruitore di contenuti internauti, scommetto che guardi anche i film in lingua originale, un po’ perché sai l’idioma, un pochino perché fa figo? E leggi anche la?
 
-Non dice un cazzo che sia uno. 
-Che cosa donano? Immortalità? Te lo fa supporre per poi affermarlo a mezza bocca
-Una forza impressionante? Si. No. Forse
-Il Super salto alla Super Mario? Può anche essere ma chi può saperlo?
+Complimenti, sei uno di quelli che se si mangia i Fonzies non si lecca le dita e gode solo a metà.
+(Dio quanto volevo poterla usare sta similitudine)
 
-Fino all’ultimo quegli oggetti stanno la, usati certo per far quelle quattro cose che in teoria possono fare, e poi… poi si finisce con “Okay, li hai tu, non sappiamo cosa fanno, sono più antichi del mondo conosciuto, mo so cazzi tuoi attaccati”…” ah si, benvenuto nel circo”
+Oltre la stronzata ed il facile “insulto”. Una delle poche critiche che si può dare sul parlato è che è a tratti troppo veloce, e magari per chi non è addentro alla lingua ed al dialetto può far fatica. Ma quella signori e signore mie, è una identità culturale. Così come il dialetto napoletano, ed ogni altro sottolinguaggio conosciuto, che si e no sono divenuti anche protetti da qualche ente sovranazionale. Per il semplice fatto che determinano e rendono tale un territorio o un gruppo di persone.
 
-Come direbbe un saggio che non tutti conoscono: “Ma che, oh!”
+Vero è che oramai si sta andando verso l’appiattimento generale di qualsiasi cosa. Si ha da essere uguali in ogni campo,:
 
-Avete presente questo che avete letto fino ad ora, queste righe che vi siete costretti a mandare giù? Hanno avuto senso? Sembra vogliano andare da una parte e poi fanno un curvane ad U e tornano indietro ma non beccano manco la strada iniziale? 
+*   basta maschio o femmina, ma tutti binari e non binari (ma una curiosità, non è anche questa una forma di distinzione?).
 
-Vi sentite confusi? Si?
+*   Basta cessi divisi, facciamola insieme! Yeah!
 
-Benissimo, ora sapete cosa si prova a passare oltre due ore a vedere la” Leggenda dei 10 Anelli”.
-Mi sono sentito più vuoto di quando ho premuto play, e non una vuotezza positiva, da post seduta sul cesso, no, una di quelle che ti fanno pensare ai fallimenti della tua vita, al perché magari a quella ragazza non hai parlato anni prima, o perché non hai mandato a cacare quell’amico alla prima occasione. 
+E potrei continuare per molte altre pagine, ma non mi pare il caso.
 
-Sa proprio di occasione mancata. Potevano fare tanto, moltissimo. 
-Iniziando anche solo a spiegare il cosa rende leggendari sti anelli.
-A non rendere il protagonista la controfigura scema del Villain, che è forse l’unico che merita davvero qualcosa in questa pellicola. 
-Una spalla comica che a tratti sovrasta il presunto protagonista, affiancato poi da una sorella fantasma inesistente e di cui ti dimentichi anche di che colore ha i capelli, pure mentre la fissi in faccia. Le hanno dato lo spessore di un filo d’erba.
-Ma il top del top si raggiunge alla battaglia contro il mistico mostro dell’oscurità, il temibile e distruttivo “Vattelappesca dell’oscurità”.
-I protagonisti non servono a nulla, chi lo aveva già battuto la prima volta, lo riempie di mazzate anche questa volta, ed a momenti, proprio a causa dei figlio illegittimo di Naruto e Sorella, ci sta per rimanere anche secco, ma si riprende, due ceffoni d’acqua e via, capitolo chiuso. Il tutto avviene con uno sfondo tra i più ridicoli. Una battaglia inutile e alquanto noiosa. 
+Non scordiamoci che siamo quello che siamo per le differenze che abbiamo, sfumature infinitesimali di un multiverso che ha trovato in noi la sua goccia di coagulazione (ma quanto sono filosofico alle 8:10 la mattina).
+E sono quelle differenze che determinano spesso e volentieri delle identità e da queste sono generate, in un serpente che si morde la coda eterno e mai pago.
 
-Ed a proposito della battaglia. Il Villain si addentra in questo piano mistico, li dove, per bocca sua e della totalità del film, vivono bestie mitologiche, proprio la, in quel luogo, la sua adorata moglie ha trovato i natali ed è diventata tanto forte fa batterlo a più riprese. E tu che fai per raderlo al suolo e liberare l’anima di tua moglie? 
+In sintesi?
 
-Esatto! Vai la con appena 20 uomini contati su tipo 5 jeep!
-Muniti di balestre di forza e spade? Ma siamo seri?
-Ma prendimi per il culo e dimmi che il passaggio dal quale dovete entrare ha uno spazio temporale di 10 minuti e più di quegli uomini non puoi portare, ed allora ti voglio anche creder, ma così a me pare troppo anche per una degna sospensione della mia capacità di ragionare in un film della Marvel o di un qualsiasi universo eroistico. 
+Trovate altro per cui rompere il cazzo a sta serie, o a mille altre produzioni anche letterarie, videoludiche. Ma che siano cose serie e realmente pressanti, che lo rendano ingodibile.
 
-Gentaglia che legge, smetto di sbattere le dita sulla tastiera che son le 23.17 e la giornata è stata un cumulo fumante di guano.
-Consiglio spassionato? Evitatevelo sto film, non perdetele 2 ore di vita, lasciate che a farlo sia stato io per voi…
+Un esempio?
+Live-Action by Netflix di: Fullmetal Alchemist, Death Note, Cowboy Be-bop e probabilmente il futuro adattamento di Attack of Titans.
 
-> Sono forse un eroe? Si, lo sono. 
+La dovete scassare la minchia, non qui.
+
+Cià bella gente!
