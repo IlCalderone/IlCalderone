@@ -42,27 +42,31 @@ seo:
       relativeUrl: true
 template: post
 ---
-In sottofondo, mentre cerco di buttare queste parole in digitale ho, rispettivamente, DaVinci che cerca, poverello, di raddrizzarmi e renderizzare una prima fase di video, per il successivo montaggio di quella cacata atomica della “Leggenda dei 10 Anelli”, e Spotify che mi canta nelle orecchie Everybody Wants to Be an Astronaut. 
+*Clap Clap Clap Disney.*
+Ma una applauso a scena aperta ti meriti.
+Perché? Ma come, sei stata capace, almeno nelle prime due puntate di Hawkeye:
 
-E voi direte, e quindi?
+*   Farmi perdere interesse nel vedere come va a proseguire.
 
-Quindi riesco ancora a sentire i miei pensieri e per tanto, nonostante tutto, li devo pur vomitare da qualche parte e questa parte guarda un poco è proprio sta pagina di sto bloggettino o blogghettino, come si scrive scrive, che a fa i fighi so tutti bravi, a fa i grezzi ignorantelli siamo oramai pochi.
+*   Comprendere che probabilmente nella tua mente c’è l’idea di rinnovare Occhio di Falco, passando il testimone a Kate
 
-Ma dopo questo preambolo inutile arrivo al sodo, come spesso avviene, i preliminari sono sempre meglio dell’atto in se.
+*   Distruggere, per quanto mi riguarda, uno degli Avengers migliori che erano stati trasposti sul grande schermo.
 
-Ho sentito tanto e spesso quasi tutti quelli che conosco e che invece solo solo visi che sfilano nella mia vita, parlare della costante ed incessante ricerca dell’amore, quasi costantemente, nella loro vita. Ed anche io sono stato uno di loro, che ha abbracciato quel concetto, vuoi o non vuoi, ci si cade tutti in quella trappola adolescenziale, dove le farfalle nello stomaco ti vomitano il pranzo di natale di tre anni prima e tu invece senti solo il profumo delle fragole appena colte e dei fiori che sbocciano, nascondendo nell’intimo, il puzzo di catrame dal quale vengono fuori.
+Davvero complimentoni.
 
-Ma alla soglia dei 34 anni, dai Gesù che ti batto dai… Sono arrivato ad una amara conclusione, puramente personale, che l’amore non è lo step finale. Non è il limite asintotico al quale tendere, ma solo il gradino che precede la “Consapevolezza” che si deve avere non solo di se stessi, ma anche del mondo e della persona che si sceglie di avere vicino.Ora, tutti ci siamo sentiti dire “Se non ami te stesso, prima, non potrai mai amare nessun altro” vero in parte, posso amare me e aver sul cazzo il genere umano. 
+Ma ti faceva tanto male al culo fare una serie dove, così a naso, già dall’inizio puntavi tutto sullo spiegare come Burton avesse vissuto nel periodo del Blip? La sua storia? La conoscenza con Vedova Nera, che si okay, va bene, viene accennato 4 volte in due puntate, ma su via, ne hai e ne avevi di materiale per confezionare due episodi, gli iniziali, che tenessero lo spettatore, o almeno me, perché son egoista e degli altri me ne frego, attaccato alla sedia con la bava alla bocca per sapere come sarebbe stata la terza puntata e poi la quarta e così via.
 
-Ma se io sono consapevole di me, della mia esistenza e di quello che sono e non sono, ed al tempo stesso spingo questa consapevolezza oltre me, riuscendo a comprendere la presenza, prima, e poi ad esser effettivamente consapevole dell’esistenza di altro oltre me, ecco, in quel momento, io posso realmente afferrare il nocciolo della questione umana, minima, di quel momento che devo vivere.
+Ma no, tu dovevi farcire tutto con battute scialbe, tranne quelle di Burton, che reggono bene la botta e portano avanti la pagnotta per quasi due ore tirate.La storia inizia anche bene, la battaglia contro la prima venuta di quello che poi si scoprirà essere una pozione piccolissima dell’esercito di Tanos dato in mano a Loky, sta povera crista che perde il padre.
+Ma fermi!
+Sta cosa non si era già vista? Oh si, in molte produzioni Disney, ed ora scommettiamo che vi è il rapporto conflittuale con l’ultimo genitore rimasto? E Sbam! Eccolo li.
+Con annesso viscidone attaccato alla sottana della madre, che puzza lontano un miglio di possibile Villain o peggio di un Villain a metà, uno di quelli che si redime ed alla fine ti risulta anche simpatico. 
 
-Esempio facile facile: pochi giorni fa stavo facendo dei rilievi in frana, ora voi direte, e che sono? Na roba brutta, tra fango e strapiombi. Ma assodato che sono uno degli ultimi eroi contemporanei, in perfetto stile boomer rincoglionito, proseguiamo. Ho scavalcato una balaustra di metallo per poter arrivare al punto topografico piazzato su di un pezzo di asfalto oramai andante verso il baratro, orbene, per quante volte l’ho fatto, oramai per me quel gesto, quel pezzo di asfalto, l’ambiente è divenuto consuetudine ed abitudine, tanto che i miei movimenti sono meccanici, rifletto poco, essendo un gesto automatico, appunto ( l’ho ripetuto abbastanza volte si?). Ma questa volta vi era una novità che ho scoperto solamente dopo aver superato quella linea, un avvallamento che prima non vi era, creatosi probabilmente nel mese passato a causa delle forti piogge e sti gran cazzi che poco ve ne frega. Ma l’aver quella mancanza sotto il piede, il sentir l’equilibrio venir meno mi ha fatto cacare sotto ma di brutto. 
+Il fondo secondo me si arriva a toccare con i “Mafiosi in tuta”. Gente che per come viene presentata ha di pericoloso l’uso orripilante di una caricatura di malvivente che viene messa su schermo. Modi triti e ritriti che, per tutti gli Dei degli abissi marini, avranno detto forse quaranta volte “**BRO**” in nemmeno due puntate?
+Ora non voglio manco sapere se nelle grafica novel di Occhio di Falco sti tizi esistano davvero e siano chiamati così, mi rifiuto di andare ad informarmi perché, piccola postilla.
 
-Passato il momento, mentre continuavo i rilievi ho riflettuto sul fatto, arrivando a far il paragone con i rapporti umani. Quando si sta con una persona, che sia un affetto caro, un’amicizia, un che vi pare e piace, si arriva ad abituarsi anche dell’aria che questi respira, dei dolori, delle preoccupazioni, e si dimentica di ciò che l’altro o altra possono essere. Non si ha quindi la consapevolezza che essi esistano e che siano qualcosa di diverso da noi, ma nemmeno troppo lontani da ciò che siamo in quel momento. 
+Io non devo sapere tutta la lore di ogni personaggio di una serie tv, di un film di una collana di libri, no, è il prodotto che me lo deve spiegare e farlo quanto più bene possibile. Se volevo studiare ogni minuzia finivo ingegneria.
+Ma la ciliegina sulla torta sono i minuti finali, dove con un crescendo di tensione pari a quella che si ha quando si scagareggia (si fa una scoreggia e non si sa se qualcosa di più solido è scappato dalla gabbia chiapponica) e non si ha modo di poter effettivamente arrivare ad un bagno. Ma dicevo, con un crescendo di tale pathos si arriva a… niente, si vede na tizia, la che boh, forse annuisce… e quindi?
 
-Quando invece si è consapevoli che dall’altro lato qualcosa esista, e si riesce a mantenere, al pari di quanto si fa con se stessi, quello stato allora le cose cambiano. Perché l’amore sfuma, muta, anche verso il proprio corpo e la propria anima. Ci sono giorni che ci si odia ed altri che ci si esalta, ma si è pur sempre consapevoli di ciò che si è e come lo si è. Bene o male che sia. 
+Sto stesso articolo ha lo spessore di interesse di quei due episodi.
 
-**In sintesi? **
-
-Finitela con la storia di trovare l’anima gemella, l’altra metà della mela, o il vasetto pe il vostro miele, rimboccatevi le maniche e primo, comprendente chi siete, secondo, abbiate consapevolezza del mondo nel quale vivete e delle persone che lo abitano. Il resto verrà da se.
-***Filosofia spiccia da quattro soldi termina qui per questa sera, per altre strozzate rimanete sintonizzati.***
+Ho davvero pochissimo da dire su queste prime due puntate e sto scrivendo di getto, dopo aver incasellato la consapevolezza che debbo rigirare effettivamente tutto il video di Shang-chi e la leggenda dei 10 anelli. Ma porca miseria ladra porca.
