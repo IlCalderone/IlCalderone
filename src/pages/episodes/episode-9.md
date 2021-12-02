@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: Consapevolezza
 thumb_image_alt: Consapevolezza
-image_alt: Zerocalcare
+image_alt: Consapevolezza
 image_position: null
 episode_embed_html: >-
   <iframe
