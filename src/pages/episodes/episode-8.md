@@ -15,7 +15,7 @@ episode_embed_html: >-
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Zerocalcare
-  description: Shang-Chi
+  description: Zerocalcare
   extra:
     - name: 'og:type'
       value: article
