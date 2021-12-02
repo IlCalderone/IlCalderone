@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Consapevolezza
+      value: Hawkeye
     - name: 'twitter:description'
       value: Consapevolezza
     - name: 'twitter:image'
