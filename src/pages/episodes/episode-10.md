@@ -5,7 +5,7 @@ date: '2021-12-03'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: Consapevolezza
+excerpt: Haw
 thumb_image_alt: Consapevolezza
 image_alt: Consapevolezza
 image_position: null
