@@ -6,8 +6,8 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: Death Note
-thumb_image_alt: You
-image_alt: You
+thumb_image_alt: Death Note
+image_alt: Death Note
 image_position: null
 episode_embed_html: >-
   <iframe
