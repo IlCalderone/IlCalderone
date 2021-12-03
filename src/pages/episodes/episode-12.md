@@ -5,7 +5,7 @@ date: '2021-12-03'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: You
+excerpt: Death Note
 thumb_image_alt: You
 image_alt: You
 image_position: null
