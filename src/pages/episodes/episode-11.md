@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Hawkeye
+      value: You
       keyName: property
     - name: 'og:description'
       value: Hawkeye
