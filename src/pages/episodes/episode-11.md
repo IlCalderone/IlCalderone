@@ -34,9 +34,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Hawkeye
+      value: You
     - name: 'twitter:description'
-      value: Hawkeye
+      value: You
     - name: 'twitter:image'
       value: null
       relativeUrl: true
