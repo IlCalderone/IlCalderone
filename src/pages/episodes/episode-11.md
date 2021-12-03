@@ -5,7 +5,7 @@ date: '2021-12-03'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: Hawkeye
+excerpt: You
 thumb_image_alt: Hawkeye
 image_alt: Hawkeye
 image_position: null
