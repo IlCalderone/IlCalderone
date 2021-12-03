@@ -6,8 +6,8 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: You
-thumb_image_alt: Hawkeye
-image_alt: Hawkeye
+thumb_image_alt: You
+image_alt: You
 image_position: null
 episode_embed_html: >-
   <iframe
@@ -15,8 +15,8 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Hawkeye
-  description: Hawkeye
+  title: You
+  description: You
   extra:
     - name: 'og:type'
       value: article
