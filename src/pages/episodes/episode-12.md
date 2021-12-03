@@ -15,17 +15,17 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay;
   clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: You
-  description: You
+  title: Death Note
+  description: Death Note
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: You
+      value: Death Note
       keyName: property
     - name: 'og:description'
-      value: You
+      value: Death Note
       keyName: property
     - name: 'og:image'
       value: null
