@@ -1,6 +1,6 @@
 ---
 title: You
-subtitle: 'No, ma che...davvero?'
+subtitle: 'Non è bella, non è brutta, sa soltanto quello che non è.'
 date: '2021-12-03'
 categories:
   - src/data/categories/season-1.yaml
