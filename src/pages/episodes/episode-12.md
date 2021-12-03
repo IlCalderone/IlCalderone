@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:title'
       value: Death Note
     - name: 'twitter:description'
-      value: You
+      value: Death Note
     - name: 'twitter:image'
       value: null
       relativeUrl: true
