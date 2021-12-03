@@ -25,7 +25,7 @@ seo:
       value: You
       keyName: property
     - name: 'og:description'
-      value: Hawkeye
+      value: You
       keyName: property
     - name: 'og:image'
       value: null
