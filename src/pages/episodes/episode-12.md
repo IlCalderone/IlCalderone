@@ -1,6 +1,6 @@
 ---
 title: Death Note
-subtitle: 'Non è bella, non è brutta, sa soltanto quello che non è.'
+subtitle: 'Brucia il culo, meno di Fullmetal Alchemist, ma brucia ugualmente.'
 date: '2021-12-03'
 categories:
   - src/data/categories/season-1.yaml
