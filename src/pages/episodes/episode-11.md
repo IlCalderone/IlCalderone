@@ -42,31 +42,37 @@ seo:
       relativeUrl: true
 template: post
 ---
-*Clap Clap Clap Disney.*
-Ma una applauso a scena aperta ti meriti.
-Perché? Ma come, sei stata capace, almeno nelle prime due puntate di Hawkeye:
+Alle volte basta il primo capitolo, il primo atto, il solo ed unico tentativo per portare a casa qualcosa di degno e che meriti anche di essere ricordato con abbastanza godimento, ed invece, no.
+You, la serie Netflix, se non la conoscente, poco male, non vi perdete nulla. Se non conoscete Strappare Lungo i Bordi invece siete delle bestie di Satana e meritate il più atroce dei gironi infernali. 
 
-*   Farmi perdere interesse nel vedere come va a proseguire.
+Ma tornando on focus.
 
-*   Comprendere che probabilmente nella tua mente c’è l’idea di rinnovare Occhio di Falco, passando il testimone a Kate
+Questa serie soffre di quello che, le Trilogie, nel 99% dei casi sono affette, tranne alcune eccezioni, come il Signore degli Anelli, o meglio ancora, ma li non è una trilogia, ma ci siamo capiti, Harry Potter. Bastava la prima stagione per portare a casa il risultato, senza essere ridondante, scadere nella noia e nel far passare il protagonista da, un apprezzato e distaccato sociopatico, ad uno che lo guardi e ti chiedi:
 
-*   Distruggere, per quanto mi riguarda, uno degli Avengers migliori che erano stati trasposti sul grande schermo.
+> “Ma che lo stai facendo davvero?”
 
-Davvero complimentoni.
+> “Ma cinque minuti fa hai detto esattamente il contrario”
 
-Ma ti faceva tanto male al culo fare una serie dove, così a naso, già dall’inizio puntavi tutto sullo spiegare come Burton avesse vissuto nel periodo del Blip? La sua storia? La conoscenza con Vedova Nera, che si okay, va bene, viene accennato 4 volte in due puntate, ma su via, ne hai e ne avevi di materiale per confezionare due episodi, gli iniziali, che tenessero lo spettatore, o almeno me, perché son egoista e degli altri me ne frego, attaccato alla sedia con la bava alla bocca per sapere come sarebbe stata la terza puntata e poi la quarta e così via.
+> “Ma non la stessa cosa che è accaduta tre puntate fa?”
 
-Ma no, tu dovevi farcire tutto con battute scialbe, tranne quelle di Burton, che reggono bene la botta e portano avanti la pagnotta per quasi due ore tirate.La storia inizia anche bene, la battaglia contro la prima venuta di quello che poi si scoprirà essere una pozione piccolissima dell’esercito di Tanos dato in mano a Loky, sta povera crista che perde il padre.
-Ma fermi!
-Sta cosa non si era già vista? Oh si, in molte produzioni Disney, ed ora scommettiamo che vi è il rapporto conflittuale con l’ultimo genitore rimasto? E Sbam! Eccolo li.
-Con annesso viscidone attaccato alla sottana della madre, che puzza lontano un miglio di possibile Villain o peggio di un Villain a metà, uno di quelli che si redime ed alla fine ti risulta anche simpatico. 
+> “No dai sul serio di nuovo?”
 
-Il fondo secondo me si arriva a toccare con i “Mafiosi in tuta”. Gente che per come viene presentata ha di pericoloso l’uso orripilante di una caricatura di malvivente che viene messa su schermo. Modi triti e ritriti che, per tutti gli Dei degli abissi marini, avranno detto forse quaranta volte “**BRO**” in nemmeno due puntate?
-Ora non voglio manco sapere se nelle grafica novel di Occhio di Falco sti tizi esistano davvero e siano chiamati così, mi rifiuto di andare ad informarmi perché, piccola postilla.
+E come sempre, potrei continuare per molte righe, inutili certo, come buona parte, appunto, delle puntate.
 
-Io non devo sapere tutta la lore di ogni personaggio di una serie tv, di un film di una collana di libri, no, è il prodotto che me lo deve spiegare e farlo quanto più bene possibile. Se volevo studiare ogni minuzia finivo ingegneria.
-Ma la ciliegina sulla torta sono i minuti finali, dove con un crescendo di tensione pari a quella che si ha quando si scagareggia (si fa una scoreggia e non si sa se qualcosa di più solido è scappato dalla gabbia chiapponica) e non si ha modo di poter effettivamente arrivare ad un bagno. Ma dicevo, con un crescendo di tale pathos si arriva a… niente, si vede na tizia, la che boh, forse annuisce… e quindi?
+La prima stagione mi aveva preso benissimo e non vedevo l’ora che giungesse la seconda. Certo non fosse stato per situazioni di vita personale di merda, tentativi inutili di portare a casa qualcosa di positivo, mi sarei anche ricordato dell’uscita della Seconda e poi della Terza. Poco male, le ho recuperate e, non l’avessi mai fatto.
 
-Sto stesso articolo ha lo spessore di interesse di quei due episodi.
+Il tutto si riassume facilmente così:
 
-Ho davvero pochissimo da dire su queste prime due puntate e sto scrivendo di getto, dopo aver incasellato la consapevolezza che debbo rigirare effettivamente tutto il video di Shang-chi e la leggenda dei 10 anelli. Ma porca miseria ladra porca.
+*   Prima stagione, un sociopatico dissociato dalla realtà, cerca disperatamente l’amore ricambiato e che una persona, possa amarlo per quello che oscuramente è (ho parafrasato molto, non scassate). Per fare questo compie atti discutibili, sino a non accettare che la sua “fissa” che quello era, s’allontani e… vedetevela
+
+*   Seconda stagione, lo stesso sociopatico in fuga vuole redimere se stesso, cercando di essere diverso da quello che è stato e che si è reso conto essere leggermente fuori le righe. Bene. Ci riesce a tratti, tornando indietro sui suoi passi e facendone poco avanti. Conosce una che è più spostata di lui e leggermente più inquietante.
+
+*   Terza stagione, prendete la seconda, conditela con uno sfondo abbastanza realistico di quanto si riesca a vivere oggi, tra social, star improvvisate del cellulare, blogger all’arrembaggio (si come me ah ah ah) ed avrete cagliato il formaggio al fondo di sto liquame.
+
+Ho davvero il dono della sintesi innata, la usassi nei video, durerebbero un tempo accettabile… invece. Ciao, sono Prolisso.
+
+Una leggera delusione, non quanto la Casa di Carta, acclamata da tutti sino a questa ultima stagione che è uscita poco fa, e che io non vedrò, non per partito preso, ma dalla Terza stagione è risultata inverosimile pari pari ai Fast\&Furious dopo il quarto e già li, a dire il vero. Sono arrivato alla fine dell’ultima puntata chiedendomi, oh figo, ma dove voleva andare a parare?
+Sono buono, diverso, e faccio sempre le stesse cose per metter pezze alla mia mogliettina assassina?
+
+Ah la canzone di sottofondo di questo articolo è: Make a Change dei Paddy and the Rats.
+Mo me ne vado a lavorare però. Cià!
