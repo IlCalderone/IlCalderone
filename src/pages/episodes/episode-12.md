@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: You
+      value: Death Note
     - name: 'twitter:description'
       value: You
     - name: 'twitter:image'
