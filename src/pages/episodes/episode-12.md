@@ -42,37 +42,40 @@ seo:
       relativeUrl: true
 template: post
 ---
-Alle volte basta il primo capitolo, il primo atto, il solo ed unico tentativo per portare a casa qualcosa di degno e che meriti anche di essere ricordato con abbastanza godimento, ed invece, no.
-You, la serie Netflix, se non la conoscente, poco male, non vi perdete nulla. Se non conoscete Strappare Lungo i Bordi invece siete delle bestie di Satana e meritate il più atroce dei gironi infernali. 
+Avrei dovuto scrivere su questo quasi un anno fa, anzi più di un anno fa. La mia vita allora era diversa, non lavorativamente parlando, né sotto l’aspetto famigliare o casalingo… nzomma era para para a come è mo, solo che ero più giovane e mi illudo che quello che era una volta fosse meglio di quello che vivo adesso.
 
-Ma tornando on focus.
+*Tipico da Boomer mi dicono.*
 
-Questa serie soffre di quello che, le Trilogie, nel 99% dei casi sono affette, tranne alcune eccezioni, come il Signore degli Anelli, o meglio ancora, ma li non è una trilogia, ma ci siamo capiti, Harry Potter. Bastava la prima stagione per portare a casa il risultato, senza essere ridondante, scadere nella noia e nel far passare il protagonista da, un apprezzato e distaccato sociopatico, ad uno che lo guardi e ti chiedi:
+Più il tempo scorreva, più le lacrime iniziavano a scendere, amare, cocenti, e tetre.
 
-> “Ma che lo stai facendo davvero?”
+Non riuscivo a capacitarmi di come si potesse prendere qualcosa di perfetto, magari con qualche minima sbavatura qui e li, magari con qualche intoppo che solo il più avvezzo e spregiudicato avrebbe mai potuto notare, ma che nel complesso era e rimane un’opera che tutti dovrebbero conoscere, per la tematica che tratta, per i personaggi che vengono descritti, sino ad arrivare alla narrazione serrata, finendo ai disegni dal tratto deciso e pungente.
 
-> “Ma cinque minuti fa hai detto esattamente il contrario”
+Eppure su tutto questo ci si è riusciti a cacare di sana pianta.
 
-> “Ma non la stessa cosa che è accaduta tre puntate fa?”
+Prendendo il bello di tutta quell’opera e gettarla nello sciacquone del cesso con tutta la malagrazia di cui si è capaci.
+Ora fossi in voi la curiosità m’avrebbe preso, se non fosse che l’ho messo nel titolo, per forza di cose, che da sto blog non ci prendo di certo la provvigione, ma nemmeno mi costa, se non in termini di tempo e sanità mentale.
 
-> “No dai sul serio di nuovo?”
+**Death Note.**
 
-E come sempre, potrei continuare per molte righe, inutili certo, come buona parte, appunto, delle puntate.
+Dio barbiere ma come si fa a fare un live action come quello. 
 
-La prima stagione mi aveva preso benissimo e non vedevo l’ora che giungesse la seconda. Certo non fosse stato per situazioni di vita personale di merda, tentativi inutili di portare a casa qualcosa di positivo, mi sarei anche ricordato dell’uscita della Seconda e poi della Terza. Poco male, le ho recuperate e, non l’avessi mai fatto.
+A storpiare in quella maniera tutto, non una singola cosa. 
 
-Il tutto si riassume facilmente così:
+A cannare persino le musiche.
 
-*   Prima stagione, un sociopatico dissociato dalla realtà, cerca disperatamente l’amore ricambiato e che una persona, possa amarlo per quello che oscuramente è (ho parafrasato molto, non scassate). Per fare questo compie atti discutibili, sino a non accettare che la sua “fissa” che quello era, s’allontani e… vedetevela
+Si salva leggermente, ma veramente leggermente come viene trasposto in “real” quel povero cristo di Ryuk. E ci si ferma la.
+L è un abominio.
+Kira non ne parliamo proprio.
+I rapporti tra i personaggi sono retti con lo sputo e rattoppati con lo scotch.
 
-*   Seconda stagione, lo stesso sociopatico in fuga vuole redimere se stesso, cercando di essere diverso da quello che è stato e che si è reso conto essere leggermente fuori le righe. Bene. Ci riesce a tratti, tornando indietro sui suoi passi e facendone poco avanti. Conosce una che è più spostata di lui e leggermente più inquietante.
+Man mano che lo si guarda è naturale chieresi:
+“ma cosa cazzo è passato per la testa degli sceneggiatori e di tutti quelli che hanno creduto fosse una buona idea… non bastava aver stuprato Fullmetal Alchemist?”
+Già… un capitolo a parte riserverò un giorno a FmA, ma non è questo il momento, il giorno, la settimana, il mese, l’anno ed il secolo per poterne parlare, ancora fa male, più di Death Note.
 
-*   Terza stagione, prendete la seconda, conditela con uno sfondo abbastanza realistico di quanto si riesca a vivere oggi, tra social, star improvvisate del cellulare, blogger all’arrembaggio (si come me ah ah ah) ed avrete cagliato il formaggio al fondo di sto liquame.
+In soldoni?
 
-Ho davvero il dono della sintesi innata, la usassi nei video, durerebbero un tempo accettabile… invece. Ciao, sono Prolisso.
+Certe volte bisognerebbe lasciare certe opere li dove stanno, che siano dei manga, libri, graphic novel o semplici fumetti, anime o cartoni animati, insomma, non tutto deve essere rimaneggiato, rimodulato ed adattato ad una nuova forma che, in potenza dovrebbe essere migliore ma che a conti fatti è solo un insulto. 
 
-Una leggera delusione, non quanto la Casa di Carta, acclamata da tutti sino a questa ultima stagione che è uscita poco fa, e che io non vedrò, non per partito preso, ma dalla Terza stagione è risultata inverosimile pari pari ai Fast\&Furious dopo il quarto e già li, a dire il vero. Sono arrivato alla fine dell’ultima puntata chiedendomi, oh figo, ma dove voleva andare a parare?
-Sono buono, diverso, e faccio sempre le stesse cose per metter pezze alla mia mogliettina assassina?
+In sintesi: se lo potevano altamente evitare. Il tempo che ho perso, Netflix, riconvertimelo in abbonamento ed inizia a scalare va… che siamo leggermente in debito.
 
-Ah la canzone di sottofondo di questo articolo è: Make a Change dei Paddy and the Rats.
-Mo me ne vado a lavorare però. Cià!
+La canzone di sottofondo è: “The Chosen Ones” dei Dream Evil
